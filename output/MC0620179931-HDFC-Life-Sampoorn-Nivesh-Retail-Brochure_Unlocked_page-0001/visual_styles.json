@@ -1,0 +1,890 @@
+[
+  {
+    "text": "In",
+    "font_height": 11,
+    "font_width": 13,
+    "confidence": 94,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "this",
+    "font_height": 11,
+    "font_width": 23,
+    "confidence": 95,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "policy,",
+    "font_height": 14,
+    "font_width": 43,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "investment",
+    "font_height": 9,
+    "font_width": 71,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "risk",
+    "font_height": 11,
+    "font_width": 25,
+    "confidence": 83,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "in",
+    "font_height": 7,
+    "font_width": 12,
+    "confidence": 83,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "investment",
+    "font_height": 9,
+    "font_width": 70,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "portfolio",
+    "font_height": 14,
+    "font_width": 57,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "is",
+    "font_height": 7,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "borne",
+    "font_height": 11,
+    "font_width": 37,
+    "confidence": 95,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "by",
+    "font_height": 14,
+    "font_width": 16,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 19,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "policyholder.",
+    "font_height": 14,
+    "font_width": 81,
+    "confidence": 89,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 11,
+    "font_width": 25,
+    "confidence": 95,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "Unit",
+    "font_height": 11,
+    "font_width": 28,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "Linked",
+    "font_height": 11,
+    "font_width": 46,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "Insurance",
+    "font_height": 11,
+    "font_width": 63,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "Products",
+    "font_height": 11,
+    "font_width": 57,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "do",
+    "font_height": 11,
+    "font_width": 16,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "not",
+    "font_height": 9,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "offer",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "any",
+    "font_height": 10,
+    "font_width": 23,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "liquidity",
+    "font_height": 14,
+    "font_width": 55,
+    "confidence": 92,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "during",
+    "font_height": 14,
+    "font_width": 42,
+    "confidence": 95,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "first",
+    "font_height": 11,
+    "font_width": 25,
+    "confidence": 95,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "five",
+    "font_height": 11,
+    "font_width": 24,
+    "confidence": 92,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "years",
+    "font_height": 10,
+    "font_width": 34,
+    "confidence": 87,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 15,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 19,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "contract.",
+    "font_height": 9,
+    "font_width": 52,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "The",
+    "font_height": 11,
+    "font_width": 25,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "policyholder",
+    "font_height": 14,
+    "font_width": 81,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "will",
+    "font_height": 11,
+    "font_width": 25,
+    "confidence": 94,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "not",
+    "font_height": 9,
+    "font_width": 20,
+    "confidence": 94,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "be",
+    "font_height": 11,
+    "font_width": 15,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "able",
+    "font_height": 11,
+    "font_width": 25,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 9,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "surrender",
+    "font_height": 11,
+    "font_width": 60,
+    "confidence": 87,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "or",
+    "font_height": 7,
+    "font_width": 13,
+    "confidence": 87,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "withdraw",
+    "font_height": 11,
+    "font_width": 61,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 19,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "monies",
+    "font_height": 7,
+    "font_width": 46,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "invested",
+    "font_height": 11,
+    "font_width": 54,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "in",
+    "font_height": 7,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "Unit",
+    "font_height": 11,
+    "font_width": 28,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "Linked",
+    "font_height": 11,
+    "font_width": 46,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "Insurance",
+    "font_height": 11,
+    "font_width": 62,
+    "confidence": 94,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "Products",
+    "font_height": 11,
+    "font_width": 56,
+    "confidence": 94,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "completely",
+    "font_height": 14,
+    "font_width": 72,
+    "confidence": 93,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "orpartially",
+    "font_height": 14,
+    "font_width": 67,
+    "confidence": 82,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "till",
+    "font_height": 11,
+    "font_width": 18,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "end",
+    "font_height": 11,
+    "font_width": 23,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 15,
+    "confidence": 77,
+    "block_num": 1,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 19,
+    "confidence": 95,
+    "block_num": 1,
+    "line_num": 3
+  },
+  {
+    "text": "fifth",
+    "font_height": 11,
+    "font_width": 28,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 3
+  },
+  {
+    "text": "year.",
+    "font_height": 10,
+    "font_width": 28,
+    "confidence": 73,
+    "block_num": 1,
+    "line_num": 3
+  },
+  {
+    "text": "Invest",
+    "font_height": 49,
+    "font_width": 203,
+    "confidence": 96,
+    "block_num": 2,
+    "line_num": 1
+  },
+  {
+    "text": "today",
+    "font_height": 64,
+    "font_width": 190,
+    "confidence": 96,
+    "block_num": 2,
+    "line_num": 1
+  },
+  {
+    "text": "and",
+    "font_height": 51,
+    "font_width": 117,
+    "confidence": 95,
+    "block_num": 2,
+    "line_num": 1
+  },
+  {
+    "text": "secure",
+    "font_height": 38,
+    "font_width": 216,
+    "confidence": 96,
+    "block_num": 2,
+    "line_num": 1
+  },
+  {
+    "text": "your",
+    "font_height": 51,
+    "font_width": 151,
+    "confidence": 96,
+    "block_num": 2,
+    "line_num": 1
+  },
+  {
+    "text": "family's",
+    "font_height": 65,
+    "font_width": 259,
+    "confidence": 67,
+    "block_num": 2,
+    "line_num": 2
+  },
+  {
+    "text": "dreams.",
+    "font_height": 51,
+    "font_width": 259,
+    "confidence": 96,
+    "block_num": 2,
+    "line_num": 2
+  },
+  {
+    "text": "a“™N.",
+    "font_height": 43,
+    "font_width": 94,
+    "confidence": 0,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "<™N",
+    "font_height": 29,
+    "font_width": 89,
+    "confidence": 0,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "Loyalty",
+    "font_height": 30,
+    "font_width": 74,
+    "confidence": 96,
+    "block_num": 5,
+    "line_num": 1
+  },
+  {
+    "text": "10",
+    "font_height": 17,
+    "font_width": 26,
+    "confidence": 95,
+    "block_num": 5,
+    "line_num": 1
+  },
+  {
+    "text": "Fund",
+    "font_height": 17,
+    "font_width": 50,
+    "confidence": 95,
+    "block_num": 5,
+    "line_num": 1
+  },
+  {
+    "text": "Additions*",
+    "font_height": 32,
+    "font_width": 110,
+    "confidence": 90,
+    "block_num": 5,
+    "line_num": 2
+  },
+  {
+    "text": "(10)",
+    "font_height": 53,
+    "font_width": 45,
+    "confidence": 66,
+    "block_num": 5,
+    "line_num": 2
+  },
+  {
+    "text": "Options",
+    "font_height": 22,
+    "font_width": 81,
+    "confidence": 96,
+    "block_num": 5,
+    "line_num": 2
+  },
+  {
+    "text": "Comprehensive",
+    "font_height": 22,
+    "font_width": 162,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 1
+  },
+  {
+    "text": "Plan",
+    "font_height": 17,
+    "font_width": 43,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "Options",
+    "font_height": 22,
+    "font_width": 81,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": ";",
+    "font_height": 9,
+    "font_width": 10,
+    "confidence": 0,
+    "block_num": 8,
+    "line_num": 1
+  },
+  {
+    "text": "HDFC",
+    "font_height": 30,
+    "font_width": 106,
+    "confidence": 92,
+    "block_num": 8,
+    "line_num": 1
+  },
+  {
+    "text": "HDFC",
+    "font_height": 29,
+    "font_width": 100,
+    "confidence": 4,
+    "block_num": 8,
+    "line_num": 2
+  },
+  {
+    "text": "Life",
+    "font_height": 40,
+    "font_width": 81,
+    "confidence": 4,
+    "block_num": 8,
+    "line_num": 2
+  },
+  {
+    "text": "Sampoorn",
+    "font_height": 37,
+    "font_width": 202,
+    "confidence": 90,
+    "block_num": 8,
+    "line_num": 2
+  },
+  {
+    "text": "Nivesh",
+    "font_height": 30,
+    "font_width": 133,
+    "confidence": 91,
+    "block_num": 8,
+    "line_num": 2
+  },
+  {
+    "text": "Life",
+    "font_height": 53,
+    "font_width": 107,
+    "confidence": 95,
+    "block_num": 8,
+    "line_num": 2
+  },
+  {
+    "text": "A",
+    "font_height": 18,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Unit",
+    "font_height": 18,
+    "font_width": 44,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Linked",
+    "font_height": 18,
+    "font_width": 68,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Non",
+    "font_height": 18,
+    "font_width": 40,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Participating",
+    "font_height": 23,
+    "font_width": 135,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Life",
+    "font_height": 19,
+    "font_width": 39,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Insurance",
+    "font_height": 18,
+    "font_width": 104,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Plan",
+    "font_height": 19,
+    "font_width": 44,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Sarutha",
+    "font_height": 20,
+    "font_width": 114,
+    "confidence": 73,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "ke",
+    "font_height": 38,
+    "font_width": 18,
+    "confidence": 86,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "jiyo!",
+    "font_height": 28,
+    "font_width": 69,
+    "confidence": 71,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "#",
+    "font_height": 11,
+    "font_width": 7,
+    "confidence": 65,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "Loyalty",
+    "font_height": 14,
+    "font_width": 46,
+    "confidence": 95,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "additions",
+    "font_height": 11,
+    "font_width": 54,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "are",
+    "font_height": 7,
+    "font_width": 18,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "applicable",
+    "font_height": 14,
+    "font_width": 61,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "after",
+    "font_height": 11,
+    "font_width": 27,
+    "confidence": 90,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "10",
+    "font_height": 10,
+    "font_width": 12,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "years.",
+    "font_height": 10,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "Please",
+    "font_height": 11,
+    "font_width": 37,
+    "confidence": 95,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "refer",
+    "font_height": 11,
+    "font_width": 28,
+    "confidence": 93,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 11,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "product",
+    "font_height": 14,
+    "font_width": 46,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "brochure",
+    "font_height": 11,
+    "font_width": 53,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "for",
+    "font_height": 11,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "more",
+    "font_height": 7,
+    "font_width": 30,
+    "confidence": 95,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "details",
+    "font_height": 11,
+    "font_width": 38,
+    "confidence": 95,
+    "block_num": 10,
+    "line_num": 1
+  }
+]

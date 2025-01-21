@@ -1,0 +1,885 @@
+{
+  "extracted_text": "Fund Management | The daily unit price is calculated allowing for deductions for the | 1.35%p.a.ofthefundvalue, charged daily. Charge (FMC) fund management charge, which is charged daily. This charge will | 0.50% p.a.for DiscontinuedPolicy Fund be subjecttothe maximum cap asallowedby IRDA Policy This charge is a percentage of the annualized premiumvsingle | Year Single Premium Regular/Limited Administration premium. The charge will be deducted monthly to provide Payment Premium Payment Charge administration for your policy. This charge will be taken by [7 ¢95 0.12% of Single Nil cancelling units proportionately from each of the fund(s) you Premium per month have chosen. 6andabove | 0.07% of Single 0.35% per month of Premium permonth | the annualized increasing at 5% per | premium increasing at annum on each 5%per annum on Policy Anniversary | each Policy Anniversary The policy administration charge is subject to a cap of € 500 per month.The percentage charge each year will be rounded to 2 decimal places. The charge may be increasedwith prior approval from IRDAI. Mortality & other Every month we levy a charge for providing you with the death | The amount of the charge taken eachmonth depends on yourage RiskBenefit Charge | ang other risk benefits in your policy. This charge will be taken by | andlevelofcover. cancelling units proportionately from each of the fund(s) you have chosen. The mortality charge and other risk benefit chargeare guaranteed for the entire duration of the policyterm. Miscellaneous Any policy alteration request initiated by the Policyholder will attract a charge of € 250 per request. The charge may be increased Charges subjectto prior approval from IRDAI andis subject toa cap of ® 500. continuance charg 8 This chargedependson year of discontinuanceandyourannualized premium forlimitedand regular premium policies. ThereisnochargefromS\" policy year. The table below gives the discontinuance charge applicable for limited and The table below gives the discontinuance charge applicable for single regular premium paymentpolicies. premium payment policies. Discontinuance Discontinuance Charge Discontinuance Discontinuance Charge during the Annual Premium Annual Premium during the ingle Premium Single Premium (pallisy eth up to% 50,000 above % 50,000 Policy year up to% 3,00,000 above 3,00.000 1 Lower of 20% x (Annual Lower of 6% x (Annual 1 Lower of 2% x (Single Lower of 1% x(Single Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) butnot exceeding 3000 | butnotexceeding 76000 but not exceeding?3000 | butnot exceeding 76000 2 Lower of 15% x (Annual Lower of 4% x (Annual 2 Lower of 1.5% x(Single Lower of 0.70% x(Single Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) butnotexceeding?2000 | but not exceeding 5000 butnotexceeding%2000 | butnotexceeding?5000 3 Lower of 10% x (Annual Lower of 3% x (Annual 3 Lower of 1% x (Single Lower of 0.50% x (Single Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) but not exceeding 71500 but not exceeding?4000 but not exceeding 71500 but notexceeding%4000 4 Lower of 5% x (Annual Lower of 2% x (Annual 4 Lower of 0.5% x (Single Lower of 0.35% x (Single Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) Premium or Fund Value) but not exceeding 71000 but not exceeding%2000 butnotexceeding%1000 | butnot exceeding 2000 5+ [ni NIL 5+ NIL NIL",
+  "missed_text": [
+    {
+      "text": "Fund",
+      "confidence": 26,
+      "position": [
+        372,
+        101
+      ]
+    },
+    {
+      "text": "Management",
+      "confidence": 26,
+      "position": [
+        410,
+        101
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 29,
+      "position": [
+        515,
+        95
+      ]
+    },
+    {
+      "text": "1.35%p.a.ofthefundvalue,",
+      "confidence": 60,
+      "position": [
+        976,
+        104
+      ]
+    },
+    {
+      "text": "charge",
+      "confidence": 23,
+      "position": [
+        890,
+        122
+      ]
+    },
+    {
+      "text": "will",
+      "confidence": 23,
+      "position": [
+        932,
+        116
+      ]
+    },
+    {
+      "text": "0.50%",
+      "confidence": 35,
+      "position": [
+        977,
+        122
+      ]
+    },
+    {
+      "text": "p.a.for",
+      "confidence": 35,
+      "position": [
+        1019,
+        116
+      ]
+    },
+    {
+      "text": "DiscontinuedPolicy",
+      "confidence": 62,
+      "position": [
+        1068,
+        122
+      ]
+    },
+    {
+      "text": "Fund",
+      "confidence": 62,
+      "position": [
+        1196,
+        116
+      ]
+    },
+    {
+      "text": "be",
+      "confidence": 68,
+      "position": [
+        541,
+        140
+      ]
+    },
+    {
+      "text": "subjecttothe",
+      "confidence": 68,
+      "position": [
+        559,
+        140
+      ]
+    },
+    {
+      "text": "cap",
+      "confidence": 58,
+      "position": [
+        713,
+        143
+      ]
+    },
+    {
+      "text": "asallowedby",
+      "confidence": 58,
+      "position": [
+        737,
+        140
+      ]
+    },
+    {
+      "text": "IRDA",
+      "confidence": 0,
+      "position": [
+        823,
+        140
+      ]
+    },
+    {
+      "text": "premiumvsingle",
+      "confidence": 7,
+      "position": [
+        853,
+        166
+      ]
+    },
+    {
+      "text": "Regular/Limited",
+      "confidence": 69,
+      "position": [
+        1239,
+        164
+      ]
+    },
+    {
+      "text": "[7",
+      "confidence": 28,
+      "position": [
+        964,
+        195
+      ]
+    },
+    {
+      "text": "¢95",
+      "confidence": 0,
+      "position": [
+        991,
+        208
+      ]
+    },
+    {
+      "text": "0.12%",
+      "confidence": 63,
+      "position": [
+        1086,
+        208
+      ]
+    },
+    {
+      "text": "Nil",
+      "confidence": 66,
+      "position": [
+        1239,
+        208
+      ]
+    },
+    {
+      "text": "per",
+      "confidence": 57,
+      "position": [
+        1147,
+        229
+      ]
+    },
+    {
+      "text": "month",
+      "confidence": 57,
+      "position": [
+        1172,
+        216
+      ]
+    },
+    {
+      "text": "6andabove",
+      "confidence": 46,
+      "position": [
+        981,
+        253
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 45,
+      "position": [
+        1356,
+        243
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 63,
+      "position": [
+        1224,
+        279
+      ]
+    },
+    {
+      "text": "premium",
+      "confidence": 56,
+      "position": [
+        1239,
+        289
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 53,
+      "position": [
+        1218,
+        315
+      ]
+    },
+    {
+      "text": "each",
+      "confidence": 41,
+      "position": [
+        1239,
+        325
+      ]
+    },
+    {
+      "text": "Policy",
+      "confidence": 41,
+      "position": [
+        1273,
+        315
+      ]
+    },
+    {
+      "text": "€",
+      "confidence": 67,
+      "position": [
+        1332,
+        343
+      ]
+    },
+    {
+      "text": "decimal",
+      "confidence": 41,
+      "position": [
+        976,
+        379
+      ]
+    },
+    {
+      "text": "places.",
+      "confidence": 41,
+      "position": [
+        1028,
+        389
+      ]
+    },
+    {
+      "text": "approval",
+      "confidence": 0,
+      "position": [
+        1224,
+        407
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 0,
+      "position": [
+        1281,
+        397
+      ]
+    },
+    {
+      "text": "IRDAI.",
+      "confidence": 46,
+      "position": [
+        1312,
+        397
+      ]
+    },
+    {
+      "text": "The",
+      "confidence": 67,
+      "position": [
+        977,
+        443
+      ]
+    },
+    {
+      "text": "amount",
+      "confidence": 48,
+      "position": [
+        1003,
+        443
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 48,
+      "position": [
+        1054,
+        434
+      ]
+    },
+    {
+      "text": "RiskBenefit",
+      "confidence": 28,
+      "position": [
+        371,
+        453
+      ]
+    },
+    {
+      "text": "Charge",
+      "confidence": 28,
+      "position": [
+        457,
+        454
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 57,
+      "position": [
+        519,
+        449
+      ]
+    },
+    {
+      "text": "ang",
+      "confidence": 51,
+      "position": [
+        540,
+        461
+      ]
+    },
+    {
+      "text": "guaranteed",
+      "confidence": 18,
+      "position": [
+        610,
+        503
+      ]
+    },
+    {
+      "text": "€",
+      "confidence": 61,
+      "position": [
+        1072,
+        549
+      ]
+    },
+    {
+      "text": "from",
+      "confidence": 51,
+      "position": [
+        695,
+        554
+      ]
+    },
+    {
+      "text": "IRDAI",
+      "confidence": 50,
+      "position": [
+        725,
+        554
+      ]
+    },
+    {
+      "text": "®",
+      "confidence": 23,
+      "position": [
+        918,
+        554
+      ]
+    },
+    {
+      "text": "charg",
+      "confidence": 38,
+      "position": [
+        560,
+        613
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 44,
+      "position": [
+        366,
+        625
+      ]
+    },
+    {
+      "text": "premium",
+      "confidence": 69,
+      "position": [
+        851,
+        641
+      ]
+    },
+    {
+      "text": "forlimitedand",
+      "confidence": 69,
+      "position": [
+        907,
+        651
+      ]
+    },
+    {
+      "text": "ThereisnochargefromS\"",
+      "confidence": 46,
+      "position": [
+        1151,
+        650
+      ]
+    },
+    {
+      "text": "Annual",
+      "confidence": 13,
+      "position": [
+        506,
+        766
+      ]
+    },
+    {
+      "text": "Premium",
+      "confidence": 13,
+      "position": [
+        565,
+        766
+      ]
+    },
+    {
+      "text": "(pallisy",
+      "confidence": 22,
+      "position": [
+        363,
+        780
+      ]
+    },
+    {
+      "text": "eth",
+      "confidence": 39,
+      "position": [
+        412,
+        783
+      ]
+    },
+    {
+      "text": "above",
+      "confidence": 57,
+      "position": [
+        692,
+        787
+      ]
+    },
+    {
+      "text": "%",
+      "confidence": 57,
+      "position": [
+        743,
+        780
+      ]
+    },
+    {
+      "text": "to%",
+      "confidence": 38,
+      "position": [
+        1081,
+        787
+      ]
+    },
+    {
+      "text": "3,00,000",
+      "confidence": 67,
+      "position": [
+        1130,
+        787
+      ]
+    },
+    {
+      "text": "above",
+      "confidence": 0,
+      "position": [
+        1237,
+        786
+      ]
+    },
+    {
+      "text": "3,00.000",
+      "confidence": 67,
+      "position": [
+        1301,
+        787
+      ]
+    },
+    {
+      "text": "or",
+      "confidence": 37,
+      "position": [
+        731,
+        837
+      ]
+    },
+    {
+      "text": "Fund",
+      "confidence": 37,
+      "position": [
+        746,
+        830
+      ]
+    },
+    {
+      "text": "or",
+      "confidence": 60,
+      "position": [
+        1099,
+        830
+      ]
+    },
+    {
+      "text": "Fund",
+      "confidence": 60,
+      "position": [
+        1116,
+        830
+      ]
+    },
+    {
+      "text": "or",
+      "confidence": 47,
+      "position": [
+        1283,
+        836
+      ]
+    },
+    {
+      "text": "Fund",
+      "confidence": 47,
+      "position": [
+        1298,
+        829
+      ]
+    },
+    {
+      "text": "exceeding",
+      "confidence": 0,
+      "position": [
+        537,
+        856
+      ]
+    },
+    {
+      "text": "3000",
+      "confidence": 0,
+      "position": [
+        604,
+        856
+      ]
+    },
+    {
+      "text": "76000",
+      "confidence": 51,
+      "position": [
+        788,
+        856
+      ]
+    },
+    {
+      "text": "but",
+      "confidence": 0,
+      "position": [
+        1041,
+        855
+      ]
+    },
+    {
+      "text": "not",
+      "confidence": 0,
+      "position": [
+        1065,
+        856
+      ]
+    },
+    {
+      "text": "exceeding?3000",
+      "confidence": 34,
+      "position": [
+        1089,
+        855
+      ]
+    },
+    {
+      "text": "butnot",
+      "confidence": 0,
+      "position": [
+        1224,
+        855
+      ]
+    },
+    {
+      "text": "exceeding",
+      "confidence": 0,
+      "position": [
+        1272,
+        855
+      ]
+    },
+    {
+      "text": "76000",
+      "confidence": 65,
+      "position": [
+        1340,
+        855
+      ]
+    },
+    {
+      "text": "butnotexceeding?2000",
+      "confidence": 0,
+      "position": [
+        488,
+        921
+      ]
+    },
+    {
+      "text": "not",
+      "confidence": 52,
+      "position": [
+        697,
+        922
+      ]
+    },
+    {
+      "text": "exceeding",
+      "confidence": 52,
+      "position": [
+        721,
+        921
+      ]
+    },
+    {
+      "text": "5000",
+      "confidence": 58,
+      "position": [
+        788,
+        921
+      ]
+    },
+    {
+      "text": "butnotexceeding%2000",
+      "confidence": 38,
+      "position": [
+        1040,
+        920
+      ]
+    },
+    {
+      "text": "butnotexceeding?5000",
+      "confidence": 6,
+      "position": [
+        1224,
+        920
+      ]
+    },
+    {
+      "text": "Lower",
+      "confidence": 69,
+      "position": [
+        1040,
+        940
+      ]
+    },
+    {
+      "text": "of",
+      "confidence": 69,
+      "position": [
+        1080,
+        944
+      ]
+    },
+    {
+      "text": "or",
+      "confidence": 49,
+      "position": [
+        731,
+        969
+      ]
+    },
+    {
+      "text": "Fund",
+      "confidence": 49,
+      "position": [
+        746,
+        966
+      ]
+    },
+    {
+      "text": "exceeding?4000",
+      "confidence": 55,
+      "position": [
+        720,
+        987
+      ]
+    },
+    {
+      "text": "71500",
+      "confidence": 50,
+      "position": [
+        1156,
+        986
+      ]
+    },
+    {
+      "text": "notexceeding%4000",
+      "confidence": 29,
+      "position": [
+        1248,
+        986
+      ]
+    },
+    {
+      "text": "or",
+      "confidence": 63,
+      "position": [
+        1098,
+        1027
+      ]
+    },
+    {
+      "text": "Fund",
+      "confidence": 63,
+      "position": [
+        1115,
+        1027
+      ]
+    },
+    {
+      "text": "exceeding%2000",
+      "confidence": 15,
+      "position": [
+        721,
+        1052
+      ]
+    },
+    {
+      "text": "butnotexceeding%1000",
+      "confidence": 29,
+      "position": [
+        1040,
+        1052
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 60,
+      "position": [
+        1204,
+        1048
+      ]
+    },
+    {
+      "text": "butnot",
+      "confidence": 33,
+      "position": [
+        1223,
+        1052
+      ]
+    },
+    {
+      "text": "exceeding",
+      "confidence": 33,
+      "position": [
+        1272,
+        1052
+      ]
+    },
+    {
+      "text": "2000",
+      "confidence": 45,
+      "position": [
+        1339,
+        1052
+      ]
+    },
+    {
+      "text": "5+",
+      "confidence": 46,
+      "position": [
+        409,
+        1074
+      ]
+    },
+    {
+      "text": "[ni",
+      "confidence": 50,
+      "position": [
+        478,
+        1067
+      ]
+    },
+    {
+      "text": "5+",
+      "confidence": 55,
+      "position": [
+        961,
+        1073
+      ]
+    }
+  ],
+  "document_structure": {
+    "8": "H1",
+    "guaranteed": "H2",
+    "for": "H3",
+    "duration": "H3",
+    "Miscellaneous": "H3",
+    "will": "H3",
+    "Charges": "H3",
+    "prior": "H3",
+    "approval": "H3",
+    "from": "H3",
+    "IRDAI": "H3",
+    "toa": "H3",
+    "cap": "H3",
+    "®": "H3",
+    "Policy": "H3",
+    "|": "H3",
+    "[7": "H3",
+    "month": "H3",
+    "per": "H3",
+    "of": "H3",
+    "5%per": "H3",
+    "Anniversary": "H3",
+    "is": "H3",
+    "€": "H3",
+    "decimal": "H3",
+    "may": "H3",
+    "IRDAI.": "H3",
+    "year": "H3",
+    "premium": "H3",
+    "regular": "H3",
+    "policies.": "H3",
+    "policy": "H3",
+    "year.": "H3",
+    "charged": "H3",
+    "[ni": "H3",
+    "&": "H3",
+    "during": "H3",
+    "%": "H3",
+    "the": "H3",
+    "on": "H3",
+    "Charge": "H3",
+    "gives": "H3",
+    "charge": "H3",
+    "applicable": "H3",
+    "limited": "H3",
+    "management": "H3",
+    "charge,": "H3",
+    "which": "H3",
+    "daily.": "H3",
+    "p.a.for": "H3",
+    "Fund": "H3",
+    "Administration": "H3",
+    "Payment": "H3",
+    "x": "H3",
+    "Value)": "H3",
+    "Lower": "H3",
+    "or": "H3"
+  },
+  "stats": {
+    "total_characters": 3482,
+    "missed_characters": 650,
+    "header_count": 57
+  }
+}

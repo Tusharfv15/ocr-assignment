@@ -1,0 +1,5946 @@
+[
+  {
+    "text": "=",
+    "font_height": 9,
+    "font_width": 8,
+    "confidence": 43,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "During",
+    "font_height": 42,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "settlement",
+    "font_height": 82,
+    "font_width": 14,
+    "confidence": 94,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "period",
+    "font_height": 40,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "units",
+    "font_height": 46,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "will",
+    "font_height": 20,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 10,
+    "font_width": 11,
+    "confidence": 87,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "redeemed",
+    "font_height": 60,
+    "font_width": 31,
+    "confidence": 87,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "systematically,",
+    "font_height": 92,
+    "font_width": 11,
+    "confidence": 77,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "Units",
+    "font_height": 33,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "as",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "maturity",
+    "font_height": 55,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "date",
+    "font_height": 28,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "will",
+    "font_height": 11,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "redeemed",
+    "font_height": 64,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "in",
+    "font_height": 10,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "60",
+    "font_height": 16,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "monthly",
+    "font_height": 52,
+    "font_width": 14,
+    "confidence": 94,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "instalments",
+    "font_height": 75,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 3,
+    "line_num": 2
+  },
+  {
+    "text": "beginning",
+    "font_height": 209,
+    "font_width": 14,
+    "confidence": 93,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "from",
+    "font_height": 27,
+    "font_width": 31,
+    "confidence": 83,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 22,
+    "font_width": 31,
+    "confidence": 61,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "maturity",
+    "font_height": 52,
+    "font_width": 31,
+    "confidence": 61,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "date,",
+    "font_height": 32,
+    "font_width": 31,
+    "confidence": 75,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "1",
+    "font_height": 8,
+    "font_width": 31,
+    "confidence": 0,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "TheFund",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 81,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "Value",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 0,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "at",
+    "font_height": 13,
+    "font_width": 31,
+    "confidence": 0,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "Maturityis",
+    "font_height": 146,
+    "font_width": 14,
+    "confidence": 27,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "greater",
+    "font_height": 42,
+    "font_width": 31,
+    "confidence": 27,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "than",
+    "font_height": 27,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 70,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "equalto",
+    "font_height": 49,
+    "font_width": 14,
+    "confidence": 70,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "€1Lakh.",
+    "font_height": 46,
+    "font_width": 11,
+    "confidence": 40,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "1m",
+    "font_height": 8,
+    "font_width": 31,
+    "confidence": 6,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "In",
+    "font_height": 6,
+    "font_width": 8,
+    "confidence": 85,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "case",
+    "font_height": 28,
+    "font_width": 8,
+    "confidence": 85,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "settlement",
+    "font_height": 73,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "period",
+    "font_height": 41,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "after",
+    "font_height": 33,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "maturity,",
+    "font_height": 59,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "risk",
+    "font_height": 23,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "cover",
+    "font_height": 35,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "shall",
+    "font_height": 13,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 15,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 4,
+    "line_num": 1
+  },
+  {
+    "text": "maintained",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "at",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "105%",
+    "font_height": 38,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "total",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "premiums",
+    "font_height": 63,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "paid.",
+    "font_height": 25,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "Accordingly,",
+    "font_height": 78,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "mortality",
+    "font_height": 58,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 4,
+    "line_num": 2
+  },
+  {
+    "text": "chargeswill",
+    "font_height": 67,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 6,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 1
+  },
+  {
+    "text": "deducted,",
+    "font_height": 59,
+    "font_width": 11,
+    "confidence": 75,
+    "block_num": 6,
+    "line_num": 1
+  },
+  {
+    "text": "1",
+    "font_height": 8,
+    "font_width": 31,
+    "confidence": 39,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "The",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "charges",
+    "font_height": 50,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "levied",
+    "font_height": 37,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "on",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "fund",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "during",
+    "font_height": 40,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "settlement",
+    "font_height": 70,
+    "font_width": 11,
+    "confidence": 87,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "period",
+    "font_height": 39,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "are",
+    "font_height": 19,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "fund",
+    "font_height": 30,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 2
+  },
+  {
+    "text": "management",
+    "font_height": 85,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "charge,",
+    "font_height": 46,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "switching",
+    "font_height": 61,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "charge",
+    "font_height": 43,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "and",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "mortality",
+    "font_height": 30,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "charges",
+    "font_height": 49,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "if",
+    "font_height": 8,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "any.",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "The",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 6,
+    "line_num": 3
+  },
+  {
+    "text": "company",
+    "font_height": 57,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "willnotlevyany",
+    "font_height": 169,
+    "font_width": 14,
+    "confidence": 84,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "other",
+    "font_height": 32,
+    "font_width": 31,
+    "confidence": 88,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "charges.",
+    "font_height": 49,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Switches",
+    "font_height": 98,
+    "font_width": 11,
+    "confidence": 26,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "willbeallowed",
+    "font_height": 262,
+    "font_width": 14,
+    "confidence": 43,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "during",
+    "font_height": 42,
+    "font_width": 31,
+    "confidence": 52,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "thesettlement",
+    "font_height": 97,
+    "font_width": 14,
+    "confidence": 52,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "period",
+    "font_height": 43,
+    "font_width": 31,
+    "confidence": 82,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "1",
+    "font_height": 8,
+    "font_width": 31,
+    "confidence": 9,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Partialwithdrawalsshall",
+    "font_height": 195,
+    "font_width": 11,
+    "confidence": 59,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "not",
+    "font_height": 22,
+    "font_width": 31,
+    "confidence": 59,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "beallowedduringthe",
+    "font_height": 56,
+    "font_width": 11,
+    "confidence": 80,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "settlement",
+    "font_height": 72,
+    "font_width": 14,
+    "confidence": 83,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "period",
+    "font_height": 39,
+    "font_width": 14,
+    "confidence": 83,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "During",
+    "font_height": 42,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "settlement",
+    "font_height": 70,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "period,",
+    "font_height": 43,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Policyholder",
+    "font_height": 79,
+    "font_width": 14,
+    "confidence": 89,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "shall",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "have",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "an",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "option",
+    "font_height": 39,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 92,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "withdraw",
+    "font_height": 85,
+    "font_width": 11,
+    "confidence": 41,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 31,
+    "confidence": 41,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "entire",
+    "font_height": 37,
+    "font_width": 11,
+    "confidence": 81,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "fund",
+    "font_height": 27,
+    "font_width": 11,
+    "confidence": 85,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "valueat",
+    "font_height": 50,
+    "font_width": 10,
+    "confidence": 85,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "any",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "timewithoutlevyinganycharge",
+    "font_height": 201,
+    "font_width": 14,
+    "confidence": 47,
+    "block_num": 9,
+    "line_num": 2
+  },
+  {
+    "text": "E)",
+    "font_height": 12,
+    "font_width": 14,
+    "confidence": 93,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "TaxBenefits",
+    "font_height": 85,
+    "font_width": 12,
+    "confidence": 72,
+    "block_num": 9,
+    "line_num": 1
+  },
+  {
+    "text": "Tax",
+    "font_height": 23,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "Benefits",
+    "font_height": 53,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "may",
+    "font_height": 45,
+    "font_width": 14,
+    "confidence": 87,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 87,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "available",
+    "font_height": 55,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "as",
+    "font_height": 11,
+    "font_width": 8,
+    "confidence": 91,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "pervailing",
+    "font_height": 64,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "tax",
+    "font_height": 20,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "laws.",
+    "font_height": 27,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "You",
+    "font_height": 23,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "are",
+    "font_height": 18,
+    "font_width": 8,
+    "confidence": 91,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "requested",
+    "font_height": 65,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 10,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 89,
+    "block_num": 10,
+    "line_num": 2
+  },
+  {
+    "text": "consultyourtaxadvisor",
+    "font_height": 149,
+    "font_width": 14,
+    "confidence": 61,
+    "block_num": 10,
+    "line_num": 2
+  },
+  {
+    "text": "F)",
+    "font_height": 11,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 13,
+    "line_num": 1
+  },
+  {
+    "text": "CancellationintheFree-Look",
+    "font_height": 244,
+    "font_width": 14,
+    "confidence": 81,
+    "block_num": 13,
+    "line_num": 1
+  },
+  {
+    "text": "period:",
+    "font_height": 50,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 13,
+    "line_num": 1
+  },
+  {
+    "text": "Incase",
+    "font_height": 41,
+    "font_width": 11,
+    "confidence": 82,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "you",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 60,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "are",
+    "font_height": 18,
+    "font_width": 8,
+    "confidence": 60,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "notagreeable",
+    "font_height": 85,
+    "font_width": 10,
+    "confidence": 81,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "tothe",
+    "font_height": 35,
+    "font_width": 11,
+    "confidence": 66,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "any",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 88,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "policy",
+    "font_height": 36,
+    "font_width": 14,
+    "confidence": 88,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "terms",
+    "font_height": 35,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "and",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "cont",
+    "font_height": 21,
+    "font_width": 8,
+    "confidence": 25,
+    "block_num": 13,
+    "line_num": 2
+  },
+  {
+    "text": "ions,",
+    "font_height": 25,
+    "font_width": 9,
+    "confidence": 58,
+    "block_num": 15,
+    "line_num": 1
+  },
+  {
+    "text": "youhave",
+    "font_height": 120,
+    "font_width": 14,
+    "confidence": 78,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 17,
+    "font_width": 31,
+    "confidence": 60,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "option",
+    "font_height": 37,
+    "font_width": 14,
+    "confidence": 60,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "returning",
+    "font_height": 55,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "thepolicy",
+    "font_height": 60,
+    "font_width": 14,
+    "confidence": 89,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "tous",
+    "font_height": 24,
+    "font_width": 31,
+    "confidence": 92,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "statingthereasons",
+    "font_height": 117,
+    "font_width": 14,
+    "confidence": 83,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "thereof,",
+    "font_height": 52,
+    "font_width": 31,
+    "confidence": 83,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "15",
+    "font_height": 13,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "days",
+    "font_height": 28,
+    "font_width": 14,
+    "confidence": 88,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "from",
+    "font_height": 27,
+    "font_width": 11,
+    "confidence": 88,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "date",
+    "font_height": 27,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "receipt",
+    "font_height": 42,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 9,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "policy.",
+    "font_height": 35,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "The",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "Free-Look",
+    "font_height": 64,
+    "font_width": 11,
+    "confidence": 76,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "period",
+    "font_height": 39,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "icies",
+    "font_height": 28,
+    "font_width": 31,
+    "confidence": 87,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "purchased",
+    "font_height": 61,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "through",
+    "font_height": 48,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "distance",
+    "font_height": 52,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "marketing",
+    "font_height": 63,
+    "font_width": 14,
+    "confidence": 79,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "(specified",
+    "font_height": 61,
+    "font_width": 14,
+    "confidence": 79,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "below)",
+    "font_height": 56,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "will",
+    "font_height": 1,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "30days.",
+    "font_height": 47,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "Onreceiptof",
+    "font_height": 75,
+    "font_width": 14,
+    "confidence": 42,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "yourletteralongwith",
+    "font_height": 127,
+    "font_width": 31,
+    "confidence": 42,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 18,
+    "font_width": 11,
+    "confidence": 82,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "original",
+    "font_height": 45,
+    "font_width": 31,
+    "confidence": 82,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "policydocuments,",
+    "font_height": 112,
+    "font_width": 14,
+    "confidence": 73,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "we",
+    "font_height": 18,
+    "font_width": 8,
+    "confidence": 93,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "shall",
+    "font_height": 28,
+    "font_width": 31,
+    "confidence": 78,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "arrange",
+    "font_height": 45,
+    "font_width": 11,
+    "confidence": 41,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "torefund",
+    "font_height": 142,
+    "font_width": 14,
+    "confidence": 41,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "you",
+    "font_height": 20,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "value",
+    "font_height": 32,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "unitsallocatedto",
+    "font_height": 130,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "youon",
+    "font_height": 35,
+    "font_width": 31,
+    "confidence": 78,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "thedate",
+    "font_height": 51,
+    "font_width": 11,
+    "confidence": 78,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 77,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "receipt",
+    "font_height": 43,
+    "font_width": 14,
+    "confidence": 77,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "requestplus",
+    "font_height": 101,
+    "font_width": 14,
+    "confidence": 84,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "unallocated",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "part",
+    "font_height": 24,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 9,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "premium",
+    "font_height": 55,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "plus",
+    "font_height": 24,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "charges",
+    "font_height": 49,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 3
+  },
+  {
+    "text": "levied",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "by",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "cancellation",
+    "font_height": 75,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "units,",
+    "font_height": 33,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "subjecttodeductionof",
+    "font_height": 164,
+    "font_width": 14,
+    "confidence": 83,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 31,
+    "confidence": 83,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "proportionaterrisk",
+    "font_height": 111,
+    "font_width": 14,
+    "confidence": 54,
+    "block_num": 17,
+    "line_num": 4
+  },
+  {
+    "text": "premium",
+    "font_height": 54,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "for",
+    "font_height": 18,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "period",
+    "font_height": 39,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "on",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "cover,",
+    "font_height": 36,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "the",
+    "font_height": 18,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "expenses",
+    "font_height": 59,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "incurred",
+    "font_height": 50,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "by",
+    "font_height": 14,
+    "font_width": 14,
+    "confidence": 93,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "us",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "on",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "medical",
+    "font_height": 44,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 5
+  },
+  {
+    "text": "examination",
+    "font_height": 77,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 6
+  },
+  {
+    "text": "and",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 6
+  },
+  {
+    "text": "stamp",
+    "font_height": 38,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 6
+  },
+  {
+    "text": "duty.",
+    "font_height": 28,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 6
+  },
+  {
+    "text": "Distance",
+    "font_height": 56,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "Marketing",
+    "font_height": 65,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "refers",
+    "font_height": 38,
+    "font_width": 14,
+    "confidence": 88,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 88,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "insurance",
+    "font_height": 62,
+    "font_width": 8,
+    "confidence": 92,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "policies",
+    "font_height": 48,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "sold",
+    "font_height": 26,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "through",
+    "font_height": 51,
+    "font_width": 14,
+    "confidence": 93,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "any",
+    "font_height": 23,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "mode",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "apart",
+    "font_height": 35,
+    "font_width": 13,
+    "confidence": 89,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "from",
+    "font_height": 31,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "face-to-face",
+    "font_height": 84,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "interactions",
+    "font_height": 79,
+    "font_width": 10,
+    "confidence": 95,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "such",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "as",
+    "font_height": 15,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "telephone,",
+    "font_height": 70,
+    "font_width": 14,
+    "confidence": 89,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "internet",
+    "font_height": 53,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "etc",
+    "font_height": 20,
+    "font_width": 10,
+    "confidence": 95,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "(Please",
+    "font_height": 47,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "refer",
+    "font_height": 31,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "to",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 82,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "“Guidelines",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 82,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "on",
+    "font_height": 15,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "Distance",
+    "font_height": 56,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "Marketing",
+    "font_height": 65,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "Insurance",
+    "font_height": 63,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "Product”",
+    "font_height": 57,
+    "font_width": 11,
+    "confidence": 89,
+    "block_num": 18,
+    "line_num": 3
+  },
+  {
+    "text": "forexhaustive",
+    "font_height": 92,
+    "font_width": 14,
+    "confidence": 90,
+    "block_num": 18,
+    "line_num": 4
+  },
+  {
+    "text": "definition",
+    "font_height": 62,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 4
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 4
+  },
+  {
+    "text": "Distance",
+    "font_height": 56,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 4
+  },
+  {
+    "text": "Marketing)",
+    "font_height": 69,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 4
+  },
+  {
+    "text": "G)",
+    "font_height": 12,
+    "font_width": 14,
+    "confidence": 87,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Alterations:",
+    "font_height": 80,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "m=",
+    "font_height": 8,
+    "font_width": 9,
+    "confidence": 39,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Switch",
+    "font_height": 41,
+    "font_width": 11,
+    "confidence": 83,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "between",
+    "font_height": 56,
+    "font_width": 11,
+    "confidence": 85,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Classic",
+    "font_height": 41,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Benefit",
+    "font_height": 47,
+    "font_width": 12,
+    "confidence": 94,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Life",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Option",
+    "font_height": 41,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "and",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Classic",
+    "font_height": 41,
+    "font_width": 11,
+    "confidence": 88,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Benefit",
+    "font_height": 46,
+    "font_width": 12,
+    "confidence": 95,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Extra",
+    "font_height": 33,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Life",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Optionand",
+    "font_height": 41,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 19,
+    "line_num": 2
+  },
+  {
+    "text": "vice-versa",
+    "font_height": 91,
+    "font_width": 11,
+    "confidence": 76,
+    "block_num": 19,
+    "line_num": 2
+  },
+  {
+    "text": "=",
+    "font_height": 9,
+    "font_width": 8,
+    "confidence": 66,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Changeindeath",
+    "font_height": 100,
+    "font_width": 14,
+    "confidence": 84,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "benefit",
+    "font_height": 42,
+    "font_width": 31,
+    "confidence": 93,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "optionis",
+    "font_height": 50,
+    "font_width": 13,
+    "confidence": 90,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "not",
+    "font_height": 19,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "allowed.",
+    "font_height": 48,
+    "font_width": 11,
+    "confidence": 87,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "=",
+    "font_height": 7,
+    "font_width": 8,
+    "confidence": 74,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Changeof",
+    "font_height": 56,
+    "font_width": 31,
+    "confidence": 89,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "frequencyisallowed.",
+    "font_height": 128,
+    "font_width": 11,
+    "confidence": 61,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Increase",
+    "font_height": 72,
+    "font_width": 9,
+    "confidence": 40,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "decrease",
+    "font_height": 57,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "policy",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "term,",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "sum",
+    "font_height": 25,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "assured",
+    "font_height": 49,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "and",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "premiums",
+    "font_height": 63,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "are",
+    "font_height": 19,
+    "font_width": 8,
+    "confidence": 95,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "not",
+    "font_height": 20,
+    "font_width": 10,
+    "confidence": 92,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "lowed.",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 44,
+    "block_num": 21,
+    "line_num": 1
+  },
+  {
+    "text": "@",
+    "font_height": 9,
+    "font_width": 9,
+    "confidence": 33,
+    "block_num": 21,
+    "line_num": 2
+  },
+  {
+    "text": "Increase",
+    "font_height": 49,
+    "font_width": 8,
+    "confidence": 67,
+    "block_num": 21,
+    "line_num": 2
+  },
+  {
+    "text": "inpremium",
+    "font_height": 69,
+    "font_width": 14,
+    "confidence": 67,
+    "block_num": 21,
+    "line_num": 2
+  },
+  {
+    "text": "payment",
+    "font_height": 48,
+    "font_width": 29,
+    "confidence": 92,
+    "block_num": 21,
+    "line_num": 2
+  },
+  {
+    "text": "termis",
+    "font_height": 41,
+    "font_width": 8,
+    "confidence": 54,
+    "block_num": 21,
+    "line_num": 2
+  },
+  {
+    "text": "owed.",
+    "font_height": 33,
+    "font_width": 11,
+    "confidence": 33,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "H)",
+    "font_height": 14,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "Nomination",
+    "font_height": 74,
+    "font_width": 31,
+    "confidence": 93,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "as",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 93,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "per",
+    "font_height": 16,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "Section",
+    "font_height": 47,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "39",
+    "font_height": 12,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "Insurance",
+    "font_height": 65,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "Act",
+    "font_height": 20,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "1938",
+    "font_height": 32,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "as",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 95,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "amended",
+    "font_height": 59,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "from",
+    "font_height": 27,
+    "font_width": 23,
+    "confidence": 95,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "time",
+    "font_height": 30,
+    "font_width": 23,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 15,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "time:",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "(1)",
+    "font_height": 16,
+    "font_width": 14,
+    "confidence": 39,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 39,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "Policyholder",
+    "font_height": 74,
+    "font_width": 14,
+    "confidence": 77,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 84,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "alife",
+    "font_height": 32,
+    "font_width": 31,
+    "confidence": 65,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "insurance",
+    "font_height": 76,
+    "font_width": 8,
+    "confidence": 93,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "on",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 93,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "his",
+    "font_height": 19,
+    "font_width": 31,
+    "confidence": 89,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "ownlife",
+    "font_height": 26,
+    "font_width": 8,
+    "confidence": 37,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "may",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "nominatea",
+    "font_height": 68,
+    "font_width": 31,
+    "confidence": 89,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "person",
+    "font_height": 43,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 84,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "personsto",
+    "font_height": 64,
+    "font_width": 13,
+    "confidence": 73,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "whom",
+    "font_height": 35,
+    "font_width": 11,
+    "confidence": 73,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "money",
+    "font_height": 40,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "secured",
+    "font_height": 49,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "bythe",
+    "font_height": 35,
+    "font_width": 14,
+    "confidence": 94,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "policy",
+    "font_height": 35,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "shallbe",
+    "font_height": 64,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "paidinthe",
+    "font_height": 34,
+    "font_width": 2,
+    "confidence": 91,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "event",
+    "font_height": 34,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "ofhis",
+    "font_height": 32,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 25,
+    "line_num": 3
+  },
+  {
+    "text": "death",
+    "font_height": 34,
+    "font_width": 31,
+    "confidence": 94,
+    "block_num": 25,
+    "line_num": 3
+  },
+  {
+    "text": "(2)Wherethenominee",
+    "font_height": 143,
+    "font_width": 14,
+    "confidence": 16,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "is",
+    "font_height": 8,
+    "font_width": 11,
+    "confidence": 68,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "a",
+    "font_height": 6,
+    "font_width": 8,
+    "confidence": 68,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "minor,",
+    "font_height": 38,
+    "font_width": 31,
+    "confidence": 74,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 17,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "Policyholder",
+    "font_height": 79,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "may",
+    "font_height": 22,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "appoint",
+    "font_height": 48,
+    "font_width": 14,
+    "confidence": 85,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "any",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "personto",
+    "font_height": 59,
+    "font_width": 13,
+    "confidence": 92,
+    "block_num": 29,
+    "line_num": 1
+  },
+  {
+    "text": "receive",
+    "font_height": 44,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "money",
+    "font_height": 43,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "secured",
+    "font_height": 50,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "by",
+    "font_height": 13,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "policy",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "in",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "event",
+    "font_height": 36,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "policyholder’s",
+    "font_height": 87,
+    "font_width": 14,
+    "confidence": 51,
+    "block_num": 29,
+    "line_num": 2
+  },
+  {
+    "text": "death",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "during",
+    "font_height": 39,
+    "font_width": 14,
+    "confidence": 89,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 20,
+    "font_width": 11,
+    "confidence": 89,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "minority",
+    "font_height": 53,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 10,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "nominee.",
+    "font_height": 55,
+    "font_width": 11,
+    "confidence": 65,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "manner",
+    "font_height": 48,
+    "font_width": 8,
+    "confidence": 84,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "appointment",
+    "font_height": 98,
+    "font_width": 13,
+    "confidence": 93,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 16,
+    "font_width": 31,
+    "confidence": 78,
+    "block_num": 31,
+    "line_num": 1
+  },
+  {
+    "text": "belaiddownbythe",
+    "font_height": 115,
+    "font_width": 11,
+    "confidence": 48,
+    "block_num": 31,
+    "line_num": 2
+  },
+  {
+    "text": "insurer.",
+    "font_height": 45,
+    "font_width": 31,
+    "confidence": 48,
+    "block_num": 31,
+    "line_num": 2
+  },
+  {
+    "text": "(3)",
+    "font_height": 16,
+    "font_width": 14,
+    "confidence": 25,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "Nomination",
+    "font_height": 73,
+    "font_width": 14,
+    "confidence": 25,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "canbe",
+    "font_height": 39,
+    "font_width": 11,
+    "confidence": 59,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "madeatanytime",
+    "font_height": 105,
+    "font_width": 11,
+    "confidence": 59,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "beforethe",
+    "font_height": 64,
+    "font_width": 11,
+    "confidence": 77,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "maturity",
+    "font_height": 53,
+    "font_width": 14,
+    "confidence": 94,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "ofthe",
+    "font_height": 32,
+    "font_width": 11,
+    "confidence": 73,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "policy.",
+    "font_height": 37,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 33,
+    "line_num": 1
+  },
+  {
+    "text": "(4)Nomination",
+    "font_height": 92,
+    "font_width": 14,
+    "confidence": 82,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "may",
+    "font_height": 25,
+    "font_width": 11,
+    "confidence": 97,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "incorporated",
+    "font_height": 81,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "in",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 16,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "text",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "policy",
+    "font_height": 36,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "itself",
+    "font_height": 48,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "may",
+    "font_height": 25,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 1
+  },
+  {
+    "text": "endorsed",
+    "font_height": 59,
+    "font_width": 11,
+    "confidence": 87,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "on",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 81,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "thepolicy",
+    "font_height": 61,
+    "font_width": 31,
+    "confidence": 81,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "communicated",
+    "font_height": 232,
+    "font_width": 14,
+    "confidence": 93,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 86,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 22,
+    "font_width": 31,
+    "confidence": 16,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "insurer",
+    "font_height": 47,
+    "font_width": 31,
+    "confidence": 16,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "and",
+    "font_height": 19,
+    "font_width": 31,
+    "confidence": 39,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "canbe",
+    "font_height": 39,
+    "font_width": 31,
+    "confidence": 61,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "registered",
+    "font_height": 65,
+    "font_width": 14,
+    "confidence": 61,
+    "block_num": 35,
+    "line_num": 2
+  },
+  {
+    "text": "by",
+    "font_height": 16,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "insurerinthe",
+    "font_height": 222,
+    "font_width": 14,
+    "confidence": 90,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "records",
+    "font_height": 45,
+    "font_width": 31,
+    "confidence": 85,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "relating",
+    "font_height": 50,
+    "font_width": 31,
+    "confidence": 85,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "to",
+    "font_height": 9,
+    "font_width": 31,
+    "confidence": 92,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 16,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "policy.",
+    "font_height": 36,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 35,
+    "line_num": 3
+  },
+  {
+    "text": "(5)Nomination",
+    "font_height": 95,
+    "font_width": 14,
+    "confidence": 90,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "can",
+    "font_height": 21,
+    "font_width": 8,
+    "confidence": 95,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "cancelled",
+    "font_height": 61,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "changed",
+    "font_height": 56,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "at",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "any",
+    "font_height": 23,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "time",
+    "font_height": 6,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "before",
+    "font_height": 42,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "policy",
+    "font_height": 38,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 37,
+    "line_num": 1
+  },
+  {
+    "text": "matures,",
+    "font_height": 73,
+    "font_width": 14,
+    "confidence": 93,
+    "block_num": 38,
+    "line_num": 1
+  },
+  {
+    "text": "by",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 93,
+    "block_num": 38,
+    "line_num": 1
+  },
+  {
+    "text": "an",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 95,
+    "block_num": 38,
+    "line_num": 1
+  },
+  {
+    "text": "endorsement",
+    "font_height": 85,
+    "font_width": 11,
+    "confidence": 72,
+    "block_num": 38,
+    "line_num": 1
+  },
+  {
+    "text": "ora",
+    "font_height": 19,
+    "font_width": 8,
+    "confidence": 67,
+    "block_num": 38,
+    "line_num": 1
+  },
+  {
+    "text": "furtherendorsementora",
+    "font_height": 160,
+    "font_width": 11,
+    "confidence": 67,
+    "block_num": 38,
+    "line_num": 1
+  },
+  {
+    "text": "as",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 75,
+    "block_num": 40,
+    "line_num": 1
+  },
+  {
+    "text": "thecase",
+    "font_height": 51,
+    "font_width": 8,
+    "confidence": 75,
+    "block_num": 40,
+    "line_num": 1
+  },
+  {
+    "text": "may",
+    "font_height": 23,
+    "font_width": 32,
+    "confidence": 77,
+    "block_num": 40,
+    "line_num": 2
+  },
+  {
+    "text": "be.",
+    "font_height": 18,
+    "font_width": 32,
+    "confidence": 77,
+    "block_num": 40,
+    "line_num": 2
+  },
+  {
+    "text": "A",
+    "font_height": 6,
+    "font_width": 8,
+    "confidence": 17,
+    "block_num": 42,
+    "line_num": 1
+  },
+  {
+    "text": "must",
+    "font_height": 31,
+    "font_width": 10,
+    "confidence": 90,
+    "block_num": 42,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 42,
+    "line_num": 1
+  },
+  {
+    "text": "(6)A",
+    "font_height": 27,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "notice",
+    "font_height": 39,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "in",
+    "font_height": 10,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "writing",
+    "font_height": 46,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "Change",
+    "font_height": 47,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "Cancellation",
+    "font_height": 78,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "noi",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 64,
+    "block_num": 44,
+    "line_num": 1
+  },
+  {
+    "text": "delivered",
+    "font_height": 58,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "insurer",
+    "font_height": 45,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "for",
+    "font_height": 18,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 97,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "insurer",
+    "font_height": 63,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "liable",
+    "font_height": 32,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "such",
+    "font_height": 28,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "nominee",
+    "font_height": 55,
+    "font_width": 11,
+    "confidence": 89,
+    "block_num": 44,
+    "line_num": 2
+  },
+  {
+    "text": "Otherwise,",
+    "font_height": 73,
+    "font_width": 31,
+    "confidence": 88,
+    "block_num": 47,
+    "line_num": 1
+  },
+  {
+    "text": "insurer",
+    "font_height": 46,
+    "font_width": 12,
+    "confidence": 88,
+    "block_num": 47,
+    "line_num": 1
+  },
+  {
+    "text": "person",
+    "font_height": 42,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "named",
+    "font_height": 42,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "in",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 18,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "text",
+    "font_height": 24,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "policy",
+    "font_height": 36,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "in",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "registered",
+    "font_height": 65,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "records",
+    "font_height": 46,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 47,
+    "line_num": 2
+  },
+  {
+    "text": "not",
+    "font_height": 20,
+    "font_width": 10,
+    "confidence": 85,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "liable",
+    "font_height": 26,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "if",
+    "font_height": 7,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "a",
+    "font_height": 4,
+    "font_width": 8,
+    "confidence": 93,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "bonafide",
+    "font_height": 56,
+    "font_width": 12,
+    "confidence": 91,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "payment",
+    "font_height": 55,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "is",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 77,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "made",
+    "font_height": 76,
+    "font_width": 11,
+    "confidence": 77,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 92,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 24,
+    "font_width": 31,
+    "confidence": 92,
+    "block_num": 48,
+    "line_num": 1
+  },
+  {
+    "text": "insurer.",
+    "font_height": 44,
+    "font_width": 11,
+    "confidence": 72,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "(7)Fee",
+    "font_height": 40,
+    "font_width": 14,
+    "confidence": 79,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "paid",
+    "font_height": 26,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 92,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "insurer",
+    "font_height": 44,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "for",
+    "font_height": 18,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "registering",
+    "font_height": 69,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "change",
+    "font_height": 45,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "cancellation",
+    "font_height": 76,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "a",
+    "font_height": 6,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "nomination",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "canbe",
+    "font_height": 21,
+    "font_width": 8,
+    "confidence": 92,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "specified",
+    "font_height": 75,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "by",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "Authority",
+    "font_height": 62,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "through",
+    "font_height": 51,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "Regulations.",
+    "font_height": 76,
+    "font_width": 14,
+    "confidence": 92,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "(8)A",
+    "font_height": 28,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "transfer",
+    "font_height": 54,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "assignment",
+    "font_height": 75,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "made",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "in",
+    "font_height": 10,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "accordance",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "with",
+    "font_height": 29,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "Section",
+    "font_height": 48,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "38",
+    "font_height": 16,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "shall",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 49,
+    "line_num": 1
+  },
+  {
+    "text": "automatical",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 49,
+    "line_num": 2
+  },
+  {
+    "text": "cancel",
+    "font_height": 39,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 51,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 51,
+    "line_num": 1
+  },
+  {
+    "text": "no",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 84,
+    "block_num": 51,
+    "line_num": 1
+  },
+  {
+    "text": "jon",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 90,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "except",
+    "font_height": 42,
+    "font_width": 13,
+    "confidence": 95,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "in",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "case",
+    "font_height": 27,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "assignment",
+    "font_height": 74,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 20,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 53,
+    "line_num": 1
+  },
+  {
+    "text": "insurer",
+    "font_height": 45,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 88,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "other",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 88,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "transferee",
+    "font_height": 68,
+    "font_width": 11,
+    "confidence": 86,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "assignee",
+    "font_height": 56,
+    "font_width": 14,
+    "confidence": 93,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "for",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "purpose",
+    "font_height": 51,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "loan",
+    "font_height": 25,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "against",
+    "font_height": 46,
+    "font_width": 14,
+    "confidence": 94,
+    "block_num": 55,
+    "line_num": 1
+  },
+  {
+    "text": "security",
+    "font_height": 56,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "or",
+    "font_height": 13,
+    "font_width": 8,
+    "confidence": 94,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "its",
+    "font_height": 16,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "reassignment",
+    "font_height": 96,
+    "font_width": 14,
+    "confidence": 91,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "after",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "repayment.",
+    "font_height": 75,
+    "font_width": 13,
+    "confidence": 94,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "In",
+    "font_height": 10,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "such",
+    "font_height": 30,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "case,",
+    "font_height": 35,
+    "font_width": 9,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 23,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 2
+  },
+  {
+    "text": "nomination",
+    "font_height": 87,
+    "font_width": 11,
+    "confidence": 89,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "will",
+    "font_height": 24,
+    "font_width": 31,
+    "confidence": 89,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "not",
+    "font_height": 16,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "get",
+    "font_height": 19,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "cancelled",
+    "font_height": 57,
+    "font_width": 31,
+    "confidence": 94,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "to",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "extent",
+    "font_height": 40,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "insurer's",
+    "font_height": 51,
+    "font_width": 31,
+    "confidence": 86,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "or",
+    "font_height": 10,
+    "font_width": 31,
+    "confidence": 92,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "transferee's",
+    "font_height": 74,
+    "font_width": 11,
+    "confidence": 50,
+    "block_num": 55,
+    "line_num": 3
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 90,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "assignee’s",
+    "font_height": 64,
+    "font_width": 14,
+    "confidence": 57,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "interest",
+    "font_height": 49,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "in",
+    "font_height": 10,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "policy.",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "nomination",
+    "font_height": 72,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "will",
+    "font_height": 1,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "get",
+    "font_height": 20,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "revived",
+    "font_height": 45,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "on",
+    "font_height": 15,
+    "font_width": 8,
+    "confidence": 95,
+    "block_num": 57,
+    "line_num": 1
+  },
+  {
+    "text": "repaymentofthe",
+    "font_height": 107,
+    "font_width": 14,
+    "confidence": 61,
+    "block_num": 58,
+    "line_num": 1
+  },
+  {
+    "text": "loan,",
+    "font_height": 26,
+    "font_width": 11,
+    "confidence": 61,
+    "block_num": 58,
+    "line_num": 1
+  },
+  {
+    "text": "(9)",
+    "font_height": 17,
+    "font_width": 31,
+    "confidence": 84,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 89,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "provisions",
+    "font_height": 65,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "Section",
+    "font_height": 47,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "39",
+    "font_height": 15,
+    "font_width": 11,
+    "confidence": 83,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "are",
+    "font_height": 19,
+    "font_width": 8,
+    "confidence": 83,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "not",
+    "font_height": 21,
+    "font_width": 10,
+    "confidence": 89,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "applicable",
+    "font_height": 63,
+    "font_width": 14,
+    "confidence": 89,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 91,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "any",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "life",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "insurance",
+    "font_height": 61,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 1
+  },
+  {
+    "text": "policy",
+    "font_height": 52,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "which",
+    "font_height": 37,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "Section",
+    "font_height": 47,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "6",
+    "font_height": 3,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "Married",
+    "font_height": 47,
+    "font_width": 11,
+    "confidence": 90,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "Women's",
+    "font_height": 57,
+    "font_width": 11,
+    "confidence": 89,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "Property",
+    "font_height": 52,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "Act,",
+    "font_height": 23,
+    "font_width": 12,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "1874",
+    "font_height": 33,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "applies",
+    "font_height": 45,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 2
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 32,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "has",
+    "font_height": 19,
+    "font_width": 31,
+    "confidence": 32,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "at",
+    "font_height": 12,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "any",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "time",
+    "font_height": 27,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "applied",
+    "font_height": 45,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "except",
+    "font_height": 41,
+    "font_width": 13,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "where",
+    "font_height": 35,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "before",
+    "font_height": 42,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "after",
+    "font_height": 31,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "Insurance",
+    "font_height": 61,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "Laws",
+    "font_height": 32,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 60,
+    "line_num": 3
+  },
+  {
+    "text": "(Amendment)",
+    "font_height": 88,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "Act,",
+    "font_height": 25,
+    "font_width": 12,
+    "confidence": 93,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "2015,",
+    "font_height": 36,
+    "font_width": 12,
+    "confidence": 93,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "a",
+    "font_height": 6,
+    "font_width": 8,
+    "confidence": 68,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "nomination",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "is",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "made",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "in",
+    "font_height": 10,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "favour",
+    "font_height": 42,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "spouse",
+    "font_height": 44,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 4
+  },
+  {
+    "text": "children",
+    "font_height": 50,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 94,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "spouse",
+    "font_height": 44,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "and",
+    "font_height": 23,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "children",
+    "font_height": 50,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "whether",
+    "font_height": 56,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 94,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "not",
+    "font_height": 17,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "on",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "the",
+    "font_height": 19,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "face",
+    "font_height": 27,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "of",
+    "font_height": 10,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "the",
+    "font_height": 30,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "policy",
+    "font_height": 37,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 60,
+    "line_num": 5
+  },
+  {
+    "text": "it",
+    "font_height": 7,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "is",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "mentioned",
+    "font_height": 69,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "th",
+    "font_height": 13,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "made",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "under",
+    "font_height": 38,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "Section",
+    "font_height": 47,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "39.",
+    "font_height": 15,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "Where",
+    "font_height": 41,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "nomination",
+    "font_height": 72,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "is",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 61,
+    "line_num": 1
+  },
+  {
+    "text": "intended",
+    "font_height": 73,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "made",
+    "font_height": 29,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "spouse",
+    "font_height": 44,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 90,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "children",
+    "font_height": 50,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 12,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "spouse",
+    "font_height": 45,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "and",
+    "font_height": 22,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "children",
+    "font_height": 19,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "under",
+    "font_height": 37,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 1
+  },
+  {
+    "text": "Section",
+    "font_height": 48,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "6",
+    "font_height": 7,
+    "font_width": 11,
+    "confidence": 95,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 12,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "MWP",
+    "font_height": 31,
+    "font_width": 10,
+    "confidence": 84,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "Act,",
+    "font_height": 25,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "it",
+    "font_height": 8,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "should",
+    "font_height": 42,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "be",
+    "font_height": 15,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "speciffcally",
+    "font_height": 73,
+    "font_width": 14,
+    "confidence": 89,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "mentioned",
+    "font_height": 69,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "on",
+    "font_height": 15,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "policy.",
+    "font_height": 36,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 64,
+    "line_num": 2
+  },
+  {
+    "text": "In",
+    "font_height": 9,
+    "font_width": 11,
+    "confidence": 87,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "such",
+    "font_height": 28,
+    "font_width": 11,
+    "confidence": 87,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "acase",
+    "font_height": 37,
+    "font_width": 8,
+    "confidence": 90,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "only,",
+    "font_height": 30,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 21,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "provisions",
+    "font_height": 133,
+    "font_width": 14,
+    "confidence": 95,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 14,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "Section",
+    "font_height": 45,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "39",
+    "font_height": 11,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "will",
+    "font_height": 24,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "not",
+    "font_height": 16,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "apply.",
+    "font_height": 32,
+    "font_width": 31,
+    "confidence": 83,
+    "block_num": 65,
+    "line_num": 1
+  },
+  {
+    "text": "1)",
+    "font_height": 8,
+    "font_width": 14,
+    "confidence": 49,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "Assignment",
+    "font_height": 82,
+    "font_width": 14,
+    "confidence": 32,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "as",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 32,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "per",
+    "font_height": 20,
+    "font_width": 31,
+    "confidence": 95,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "Section",
+    "font_height": 49,
+    "font_width": 8,
+    "confidence": 95,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "38",
+    "font_height": 17,
+    "font_width": 11,
+    "confidence": 94,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 94,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 32,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "Insurance",
+    "font_height": 93,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "Act",
+    "font_height": 22,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "1938",
+    "font_height": 35,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "as",
+    "font_height": 14,
+    "font_width": 8,
+    "confidence": 93,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "amended",
+    "font_height": 63,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 66,
+    "line_num": 1
+  },
+  {
+    "text": "from",
+    "font_height": 32,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 66,
+    "line_num": 2
+  },
+  {
+    "text": "time",
+    "font_height": 28,
+    "font_width": 23,
+    "confidence": 96,
+    "block_num": 66,
+    "line_num": 2
+  },
+  {
+    "text": "to",
+    "font_height": 15,
+    "font_width": 10,
+    "confidence": 96,
+    "block_num": 66,
+    "line_num": 2
+  },
+  {
+    "text": "time:",
+    "font_height": 34,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 66,
+    "line_num": 2
+  },
+  {
+    "text": "This",
+    "font_height": 26,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "policy",
+    "font_height": 36,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "may",
+    "font_height": 25,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "transferred/assigned,",
+    "font_height": 141,
+    "font_width": 14,
+    "confidence": 81,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "wholly",
+    "font_height": 27,
+    "font_width": 11,
+    "confidence": 91,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "orin",
+    "font_height": 24,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "part,",
+    "font_height": 29,
+    "font_width": 13,
+    "confidence": 93,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "with",
+    "font_height": 24,
+    "font_width": 31,
+    "confidence": 84,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "or",
+    "font_height": 11,
+    "font_width": 8,
+    "confidence": 0,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "without",
+    "font_height": 52,
+    "font_width": 11,
+    "confidence": 0,
+    "block_num": 69,
+    "line_num": 1
+  },
+  {
+    "text": "consideration.",
+    "font_height": 86,
+    "font_width": 11,
+    "confidence": 87,
+    "block_num": 70,
+    "line_num": 1
+  }
+]

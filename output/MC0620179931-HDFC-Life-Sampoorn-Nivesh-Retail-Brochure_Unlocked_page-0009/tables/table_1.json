@@ -1,0 +1,46 @@
+{
+  "headers": [
+    "Fund Management Charge (FMC)",
+    "The daily unit price is calculated allowing for deductions for the fund management charge; which is chargeddaily This chargewill be subjecttothemaximum capasallowedby IRDAI",
+    "1.35%pa.ofthefundvalue charged daily. 0.50% p.a.for DiscontinuedPolicy Fund",
+    "1.35%pa.ofthefundvalue charged daily. 0.50% p.a.for DiscontinuedPolicy Fund",
+    "1.35%pa.ofthefundvalue charged daily. 0.50% p.a.for DiscontinuedPolicy Fund"
+  ],
+  "rows": [
+    [
+      "Policy Administration Charge",
+      "This charge is 0 percentage of the annualized premium/single premium. The charge will be deducted monthly to provide administration for your policy. This charge will be taken by cance units proportionately from each of the fund(s) you have chosen. eIling",
+      "Year",
+      "Single Premium Payment",
+      "Regular /Límited Premium Payment"
+    ],
+    [
+      "Policy Administration Charge",
+      "This charge is 0 percentage of the annualized premium/single premium. The charge will be deducted monthly to provide administration for your policy. This charge will be taken by cance units proportionately from each of the fund(s) you have chosen. eIling",
+      "1to 5",
+      "0.12% of Single Premium per month",
+      "Nil"
+    ],
+    [
+      "Policy Administration Charge",
+      "This charge is 0 percentage of the annualized premium/single premium. The charge will be deducted monthly to provide administration for your policy. This charge will be taken by cance units proportionately from each of the fund(s) you have chosen. eIling",
+      "6 and above",
+      "0.070 of Single Premium per month increasing at 5% per annum oneach Policy Anniversary",
+      "0.35%per month of the annualized premium increasing at 5%per annum on each Policy Anniversary"
+    ],
+    [
+      "Mortality & other Risk Benefit Charge",
+      "Every month we levy 2 charge for providing you with the death Theamount of the chargetakeneach month depends on yourage and other risk benefits in your po This charge will be taken by andlevelofcover cancelling units proportionately from each of the fund(s) you have chosen. The mortality charge and other risk benefit licy",
+      "Every month we levy 2 charge for providing you with the death Theamount of the chargetakeneach month depends on yourage and other risk benefits in your po This charge will be taken by andlevelofcover cancelling units proportionately from each of the fund(s) you have chosen. The mortality charge and other risk benefit licy",
+      "Every month we levy 2 charge for providing you with the death Theamount of the chargetakeneach month depends on yourage and other risk benefits in your po This charge will be taken by andlevelofcover cancelling units proportionately from each of the fund(s) you have chosen. The mortality charge and other risk benefit licy",
+      "0.35%per month of the annualized premium increasing at 5%per annum on each Policy Anniversary"
+    ],
+    [
+      "Miscellaneous Charges",
+      "Any policy alteration request initiated by the Policyholder will attract a charge of 250 per request The charge may be increased subjectto prior approvalfrom IRDAl andis subjecttoa cap ofz 500.",
+      "Any policy alteration request initiated by the Policyholder will attract a charge of 250 per request The charge may be increased subjectto prior approvalfrom IRDAl andis subjecttoa cap ofz 500.",
+      "Any policy alteration request initiated by the Policyholder will attract a charge of 250 per request The charge may be increased subjectto prior approvalfrom IRDAl andis subjecttoa cap ofz 500.",
+      "Any policy alteration request initiated by the Policyholder will attract a charge of 250 per request The charge may be increased subjectto prior approvalfrom IRDAl andis subjecttoa cap ofz 500."
+    ]
+  ]
+}

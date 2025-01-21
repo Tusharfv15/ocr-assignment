@@ -1,0 +1,2714 @@
+[
+  {
+    "text": "Output",
+    "font_height": 18,
+    "font_width": 58,
+    "confidence": 96,
+    "block_num": 1,
+    "line_num": 1
+  },
+  {
+    "text": "Probabilities",
+    "font_height": 14,
+    "font_width": 102,
+    "confidence": 89,
+    "block_num": 1,
+    "line_num": 2
+  },
+  {
+    "text": "Add",
+    "font_height": 13,
+    "font_width": 30,
+    "confidence": 91,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "&",
+    "font_height": 13,
+    "font_width": 9,
+    "confidence": 91,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "Norm",
+    "font_height": 13,
+    "font_width": 40,
+    "confidence": 93,
+    "block_num": 3,
+    "line_num": 1
+  },
+  {
+    "text": "Add",
+    "font_height": 13,
+    "font_width": 30,
+    "confidence": 91,
+    "block_num": 5,
+    "line_num": 1
+  },
+  {
+    "text": "&",
+    "font_height": 13,
+    "font_width": 9,
+    "confidence": 91,
+    "block_num": 5,
+    "line_num": 1
+  },
+  {
+    "text": "Norm.",
+    "font_height": 13,
+    "font_width": 40,
+    "confidence": 74,
+    "block_num": 5,
+    "line_num": 1
+  },
+  {
+    "text": "Mul",
+    "font_height": 27,
+    "font_width": 22,
+    "confidence": 92,
+    "block_num": 5,
+    "line_num": 2
+  },
+  {
+    "text": "ad",
+    "font_height": 13,
+    "font_width": 17,
+    "confidence": 76,
+    "block_num": 5,
+    "line_num": 2
+  },
+  {
+    "text": "Add",
+    "font_height": 13,
+    "font_width": 29,
+    "confidence": 88,
+    "block_num": 8,
+    "line_num": 1
+  },
+  {
+    "text": "&",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 88,
+    "block_num": 8,
+    "line_num": 1
+  },
+  {
+    "text": "Norm",
+    "font_height": 13,
+    "font_width": 40,
+    "confidence": 96,
+    "block_num": 8,
+    "line_num": 1
+  },
+  {
+    "text": "Feed",
+    "font_height": 13,
+    "font_width": 35,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 1
+  },
+  {
+    "text": "Attention",
+    "font_height": 13,
+    "font_width": 65,
+    "confidence": 95,
+    "block_num": 15,
+    "line_num": 1
+  },
+  {
+    "text": "Forward",
+    "font_height": 25,
+    "font_width": 59,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "a,",
+    "font_height": 29,
+    "font_width": 47,
+    "confidence": 8,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "Nx",
+    "font_height": 14,
+    "font_width": 23,
+    "confidence": 94,
+    "block_num": 15,
+    "line_num": 2
+  },
+  {
+    "text": "N",
+    "font_height": 14,
+    "font_width": 11,
+    "confidence": 92,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "Add",
+    "font_height": 13,
+    "font_width": 30,
+    "confidence": 68,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "&",
+    "font_height": 13,
+    "font_width": 9,
+    "confidence": 68,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "Norm",
+    "font_height": 13,
+    "font_width": 40,
+    "confidence": 94,
+    "block_num": 15,
+    "line_num": 3
+  },
+  {
+    "text": "*",
+    "font_height": 8,
+    "font_width": 8,
+    "confidence": 89,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "Add",
+    "font_height": 13,
+    "font_width": 29,
+    "confidence": 84,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "&",
+    "font_height": 13,
+    "font_width": 10,
+    "confidence": 84,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "Norm",
+    "font_height": 13,
+    "font_width": 40,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 4
+  },
+  {
+    "text": "Multi-Head",
+    "font_height": 26,
+    "font_width": 82,
+    "confidence": 92,
+    "block_num": 15,
+    "line_num": 5
+  },
+  {
+    "text": "Mul",
+    "font_height": 26,
+    "font_width": 26,
+    "confidence": 95,
+    "block_num": 15,
+    "line_num": 5
+  },
+  {
+    "text": "ad",
+    "font_height": 13,
+    "font_width": 17,
+    "confidence": 73,
+    "block_num": 15,
+    "line_num": 5
+  },
+  {
+    "text": "Attention",
+    "font_height": 26,
+    "font_width": 69,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 6
+  },
+  {
+    "text": "Attention",
+    "font_height": 13,
+    "font_width": 66,
+    "confidence": 95,
+    "block_num": 15,
+    "line_num": 6
+  },
+  {
+    "text": "a",
+    "font_height": 16,
+    "font_width": 29,
+    "confidence": 27,
+    "block_num": 15,
+    "line_num": 7
+  },
+  {
+    "text": "a",
+    "font_height": 16,
+    "font_width": 85,
+    "confidence": 27,
+    "block_num": 15,
+    "line_num": 7
+  },
+  {
+    "text": "Positional",
+    "font_height": 28,
+    "font_width": 83,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 8
+  },
+  {
+    "text": "Positional",
+    "font_height": 15,
+    "font_width": 79,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 8
+  },
+  {
+    "text": "Encoding",
+    "font_height": 26,
+    "font_width": 78,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 9
+  },
+  {
+    "text": "E&",
+    "font_height": 47,
+    "font_width": 39,
+    "confidence": 0,
+    "block_num": 15,
+    "line_num": 9
+  },
+  {
+    "text": "®",
+    "font_height": 16,
+    "font_width": 15,
+    "confidence": 57,
+    "block_num": 15,
+    "line_num": 9
+  },
+  {
+    "text": "€&",
+    "font_height": 48,
+    "font_width": 40,
+    "confidence": 53,
+    "block_num": 15,
+    "line_num": 9
+  },
+  {
+    "text": "Encoding",
+    "font_height": 19,
+    "font_width": 78,
+    "confidence": 96,
+    "block_num": 15,
+    "line_num": 9
+  },
+  {
+    "text": "input",
+    "font_height": 15,
+    "font_width": 36,
+    "confidence": 66,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "Output",
+    "font_height": 16,
+    "font_width": 50,
+    "confidence": 91,
+    "block_num": 17,
+    "line_num": 1
+  },
+  {
+    "text": "Embedding",
+    "font_height": 33,
+    "font_width": 83,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "Embedding",
+    "font_height": 16,
+    "font_width": 82,
+    "confidence": 96,
+    "block_num": 17,
+    "line_num": 2
+  },
+  {
+    "text": "Inputs",
+    "font_height": 18,
+    "font_width": 50,
+    "confidence": 96,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "Outputs.",
+    "font_height": 18,
+    "font_width": 68,
+    "confidence": 81,
+    "block_num": 18,
+    "line_num": 1
+  },
+  {
+    "text": "(shifted",
+    "font_height": 17,
+    "font_width": 59,
+    "confidence": 95,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "right)",
+    "font_height": 18,
+    "font_width": 40,
+    "confidence": 95,
+    "block_num": 18,
+    "line_num": 2
+  },
+  {
+    "text": "Figure",
+    "font_height": 20,
+    "font_width": 58,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "1:",
+    "font_height": 15,
+    "font_width": 12,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 15,
+    "font_width": 35,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "Transformer",
+    "font_height": 16,
+    "font_width": 110,
+    "confidence": 93,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "-",
+    "font_height": 2,
+    "font_width": 6,
+    "confidence": 93,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "model",
+    "font_height": 15,
+    "font_width": 55,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "architecture.",
+    "font_height": 15,
+    "font_width": 109,
+    "confidence": 96,
+    "block_num": 19,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 15,
+    "font_width": 34,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "Transformer",
+    "font_height": 15,
+    "font_width": 112,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "follows",
+    "font_height": 15,
+    "font_width": 66,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "this",
+    "font_height": 15,
+    "font_width": 32,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "overall",
+    "font_height": 15,
+    "font_width": 62,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "architecture",
+    "font_height": 15,
+    "font_width": 106,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "using",
+    "font_height": 20,
+    "font_width": 48,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "stacked",
+    "font_height": 15,
+    "font_width": 66,
+    "confidence": 93,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "self-attention",
+    "font_height": 15,
+    "font_width": 118,
+    "confidence": 92,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "and",
+    "font_height": 15,
+    "font_width": 31,
+    "confidence": 93,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "point-wise,",
+    "font_height": 20,
+    "font_width": 100,
+    "confidence": 93,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "fully",
+    "font_height": 20,
+    "font_width": 42,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 1
+  },
+  {
+    "text": "connected",
+    "font_height": 15,
+    "font_width": 92,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "layers",
+    "font_height": 20,
+    "font_width": 53,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "for",
+    "font_height": 15,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "both",
+    "font_height": 15,
+    "font_width": 40,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "encoder",
+    "font_height": 15,
+    "font_width": 72,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "and",
+    "font_height": 15,
+    "font_width": 32,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "decoder,",
+    "font_height": 18,
+    "font_width": 76,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "shown",
+    "font_height": 15,
+    "font_width": 57,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "in",
+    "font_height": 15,
+    "font_width": 17,
+    "confidence": 95,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 95,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "left",
+    "font_height": 15,
+    "font_width": 29,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "and",
+    "font_height": 15,
+    "font_width": 32,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "right",
+    "font_height": 20,
+    "font_width": 43,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "halves",
+    "font_height": 15,
+    "font_width": 57,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "of",
+    "font_height": 16,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "Figure",
+    "font_height": 20,
+    "font_width": 59,
+    "confidence": 95,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "1,",
+    "font_height": 18,
+    "font_width": 13,
+    "confidence": 95,
+    "block_num": 20,
+    "line_num": 2
+  },
+  {
+    "text": "respectively.",
+    "font_height": 20,
+    "font_width": 110,
+    "confidence": 94,
+    "block_num": 20,
+    "line_num": 3
+  },
+  {
+    "text": "3.1",
+    "font_height": 16,
+    "font_width": 27,
+    "confidence": 64,
+    "block_num": 21,
+    "line_num": 1
+  },
+  {
+    "text": "Encoder",
+    "font_height": 15,
+    "font_width": 80,
+    "confidence": 64,
+    "block_num": 21,
+    "line_num": 1
+  },
+  {
+    "text": "and",
+    "font_height": 15,
+    "font_width": 35,
+    "confidence": 96,
+    "block_num": 21,
+    "line_num": 1
+  },
+  {
+    "text": "Decoder",
+    "font_height": 15,
+    "font_width": 79,
+    "confidence": 96,
+    "block_num": 21,
+    "line_num": 1
+  },
+  {
+    "text": "Stacks",
+    "font_height": 16,
+    "font_width": 61,
+    "confidence": 96,
+    "block_num": 21,
+    "line_num": 1
+  },
+  {
+    "text": "Encoder:",
+    "font_height": 15,
+    "font_width": 88,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 15,
+    "font_width": 35,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "encoder",
+    "font_height": 15,
+    "font_width": 72,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "is",
+    "font_height": 15,
+    "font_width": 14,
+    "confidence": 97,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "composed",
+    "font_height": 20,
+    "font_width": 92,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 15,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 9,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "stack",
+    "font_height": 15,
+    "font_width": 46,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 15,
+    "font_width": 20,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "N",
+    "font_height": 16,
+    "font_width": 18,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "=",
+    "font_height": 6,
+    "font_width": 15,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "6",
+    "font_height": 30,
+    "font_width": 11,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "identical",
+    "font_height": 15,
+    "font_width": 78,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "layers.",
+    "font_height": 20,
+    "font_width": 58,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "Each",
+    "font_height": 15,
+    "font_width": 45,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "layer",
+    "font_height": 20,
+    "font_width": 45,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "has",
+    "font_height": 15,
+    "font_width": 30,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "two",
+    "font_height": 13,
+    "font_width": 33,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 1
+  },
+  {
+    "text": "sub-layers.",
+    "font_height": 20,
+    "font_width": 96,
+    "confidence": 91,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "The",
+    "font_height": 15,
+    "font_width": 35,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "first",
+    "font_height": 16,
+    "font_width": 35,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "is",
+    "font_height": 15,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 4,
+    "confidence": 95,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "multi-head",
+    "font_height": 15,
+    "font_width": 97,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "self-attention",
+    "font_height": 15,
+    "font_width": 117,
+    "confidence": 92,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "mechanism,",
+    "font_height": 18,
+    "font_width": 106,
+    "confidence": 95,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "and",
+    "font_height": 15,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 95,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "second",
+    "font_height": 15,
+    "font_width": 61,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "is",
+    "font_height": 15,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 9,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "simple,",
+    "font_height": 20,
+    "font_width": 64,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "position-",
+    "font_height": 20,
+    "font_width": 79,
+    "confidence": 92,
+    "block_num": 22,
+    "line_num": 2
+  },
+  {
+    "text": "wise",
+    "font_height": 15,
+    "font_width": 41,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "fully",
+    "font_height": 20,
+    "font_width": 42,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "connected",
+    "font_height": 15,
+    "font_width": 91,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "feed-forward",
+    "font_height": 15,
+    "font_width": 117,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "network.",
+    "font_height": 15,
+    "font_width": 78,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "We",
+    "font_height": 15,
+    "font_width": 29,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "employ",
+    "font_height": 20,
+    "font_width": 67,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 9,
+    "confidence": 95,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "residual",
+    "font_height": 15,
+    "font_width": 71,
+    "confidence": 95,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "connection",
+    "font_height": 15,
+    "font_width": 98,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "[11]",
+    "font_height": 19,
+    "font_width": 34,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "around",
+    "font_height": 15,
+    "font_width": 61,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "each",
+    "font_height": 15,
+    "font_width": 41,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 15,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 28,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "two",
+    "font_height": 13,
+    "font_width": 33,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "sub-layers,",
+    "font_height": 20,
+    "font_width": 98,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "followed",
+    "font_height": 16,
+    "font_width": 80,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "by",
+    "font_height": 20,
+    "font_width": 21,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "layer",
+    "font_height": 20,
+    "font_width": 45,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "normalization",
+    "font_height": 15,
+    "font_width": 125,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "[1].",
+    "font_height": 19,
+    "font_width": 29,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "That",
+    "font_height": 15,
+    "font_width": 41,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "is,",
+    "font_height": 18,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "output",
+    "font_height": 18,
+    "font_width": 58,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "of",
+    "font_height": 15,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "each",
+    "font_height": 15,
+    "font_width": 42,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "sub-layer",
+    "font_height": 20,
+    "font_width": 84,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "is",
+    "font_height": 15,
+    "font_width": 15,
+    "confidence": 97,
+    "block_num": 22,
+    "line_num": 4
+  },
+  {
+    "text": "LayerNorm(z",
+    "font_height": 23,
+    "font_width": 129,
+    "confidence": 89,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "+",
+    "font_height": 15,
+    "font_width": 15,
+    "confidence": 92,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "Sublayer(x)),",
+    "font_height": 23,
+    "font_width": 126,
+    "confidence": 51,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "where",
+    "font_height": 15,
+    "font_width": 55,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "Sublayer(z)",
+    "font_height": 22,
+    "font_width": 110,
+    "confidence": 25,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "is",
+    "font_height": 15,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "function",
+    "font_height": 16,
+    "font_width": 76,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "implemented",
+    "font_height": 20,
+    "font_width": 119,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "by",
+    "font_height": 20,
+    "font_width": 22,
+    "confidence": 97,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 28,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "sub-layer",
+    "font_height": 20,
+    "font_width": 84,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 5
+  },
+  {
+    "text": "itself.",
+    "font_height": 16,
+    "font_width": 49,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "To",
+    "font_height": 15,
+    "font_width": 23,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "facilitate",
+    "font_height": 16,
+    "font_width": 77,
+    "confidence": 95,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "these",
+    "font_height": 15,
+    "font_width": 46,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "residual",
+    "font_height": 15,
+    "font_width": 69,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "connections,",
+    "font_height": 18,
+    "font_width": 111,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "all",
+    "font_height": 15,
+    "font_width": 21,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "sub-layers",
+    "font_height": 20,
+    "font_width": 89,
+    "confidence": 92,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "in",
+    "font_height": 15,
+    "font_width": 17,
+    "confidence": 97,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "model,",
+    "font_height": 18,
+    "font_width": 60,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "as",
+    "font_height": 11,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "well",
+    "font_height": 15,
+    "font_width": 37,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "as",
+    "font_height": 11,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "embedding",
+    "font_height": 20,
+    "font_width": 98,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 6
+  },
+  {
+    "text": "layers,",
+    "font_height": 20,
+    "font_width": 58,
+    "confidence": 95,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "produce",
+    "font_height": 20,
+    "font_width": 71,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "outputs",
+    "font_height": 18,
+    "font_width": 64,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "of",
+    "font_height": 15,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "dimension",
+    "font_height": 15,
+    "font_width": 92,
+    "confidence": 93,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "dmodet",
+    "font_height": 19,
+    "font_width": 49,
+    "confidence": 0,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "=",
+    "font_height": 6,
+    "font_width": 15,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "512.",
+    "font_height": 16,
+    "font_width": 36,
+    "confidence": 96,
+    "block_num": 22,
+    "line_num": 7
+  },
+  {
+    "text": "Decoder:",
+    "font_height": 15,
+    "font_width": 83,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "The",
+    "font_height": 15,
+    "font_width": 33,
+    "confidence": 77,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "decoder",
+    "font_height": 15,
+    "font_width": 69,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "is",
+    "font_height": 15,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "also",
+    "font_height": 15,
+    "font_width": 34,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "composed",
+    "font_height": 20,
+    "font_width": 88,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 15,
+    "font_width": 19,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 9,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "stack",
+    "font_height": 15,
+    "font_width": 45,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 16,
+    "font_width": 19,
+    "confidence": 93,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "N",
+    "font_height": 16,
+    "font_width": 8,
+    "confidence": 89,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "=",
+    "font_height": 6,
+    "font_width": 15,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "6",
+    "font_height": 30,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "identical",
+    "font_height": 15,
+    "font_width": 74,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "layers.",
+    "font_height": 20,
+    "font_width": 55,
+    "confidence": 94,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "In",
+    "font_height": 15,
+    "font_width": 17,
+    "confidence": 94,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "addition",
+    "font_height": 15,
+    "font_width": 70,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 16,
+    "confidence": 97,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "two",
+    "font_height": 13,
+    "font_width": 32,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 1
+  },
+  {
+    "text": "sub-layers",
+    "font_height": 20,
+    "font_width": 92,
+    "confidence": 91,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "in",
+    "font_height": 15,
+    "font_width": 18,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "each",
+    "font_height": 15,
+    "font_width": 41,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "encoder",
+    "font_height": 15,
+    "font_width": 72,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "layer,",
+    "font_height": 20,
+    "font_width": 49,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "decoder",
+    "font_height": 15,
+    "font_width": 72,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "inserts",
+    "font_height": 15,
+    "font_width": 59,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 9,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "third",
+    "font_height": 15,
+    "font_width": 42,
+    "confidence": 93,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "sub-layer,",
+    "font_height": 20,
+    "font_width": 88,
+    "confidence": 92,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "which",
+    "font_height": 15,
+    "font_width": 55,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "performs",
+    "font_height": 20,
+    "font_width": 81,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "multi-head",
+    "font_height": 15,
+    "font_width": 98,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 2
+  },
+  {
+    "text": "attention",
+    "font_height": 15,
+    "font_width": 75,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "over",
+    "font_height": 11,
+    "font_width": 38,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "output",
+    "font_height": 18,
+    "font_width": 56,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "of",
+    "font_height": 16,
+    "font_width": 19,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "encoder",
+    "font_height": 15,
+    "font_width": 69,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "stack.",
+    "font_height": 15,
+    "font_width": 47,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "Similar",
+    "font_height": 15,
+    "font_width": 63,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "encoder,",
+    "font_height": 18,
+    "font_width": 73,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "we",
+    "font_height": 11,
+    "font_width": 24,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "employ",
+    "font_height": 20,
+    "font_width": 64,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "residual",
+    "font_height": 15,
+    "font_width": 69,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "connections",
+    "font_height": 15,
+    "font_width": 104,
+    "confidence": 92,
+    "block_num": 23,
+    "line_num": 3
+  },
+  {
+    "text": "around",
+    "font_height": 15,
+    "font_width": 62,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "each",
+    "font_height": 15,
+    "font_width": 41,
+    "confidence": 97,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "of",
+    "font_height": 15,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 92,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "sub-layers,",
+    "font_height": 20,
+    "font_width": 97,
+    "confidence": 92,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "followed",
+    "font_height": 16,
+    "font_width": 80,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "by",
+    "font_height": 20,
+    "font_width": 22,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "layer",
+    "font_height": 20,
+    "font_width": 45,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "normalization.",
+    "font_height": 15,
+    "font_width": 131,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "We",
+    "font_height": 15,
+    "font_width": 30,
+    "confidence": 97,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "also",
+    "font_height": 15,
+    "font_width": 36,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "modify",
+    "font_height": 20,
+    "font_width": 65,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 93,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "self-attention",
+    "font_height": 15,
+    "font_width": 119,
+    "confidence": 91,
+    "block_num": 23,
+    "line_num": 4
+  },
+  {
+    "text": "sub-layer",
+    "font_height": 20,
+    "font_width": 84,
+    "confidence": 90,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "in",
+    "font_height": 15,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 28,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "decoder",
+    "font_height": 15,
+    "font_width": 72,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "stack",
+    "font_height": 15,
+    "font_width": 45,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 16,
+    "confidence": 97,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "prevent",
+    "font_height": 18,
+    "font_width": 67,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "positions",
+    "font_height": 20,
+    "font_width": 82,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "from",
+    "font_height": 16,
+    "font_width": 44,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "attending",
+    "font_height": 20,
+    "font_width": 83,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "subsequent",
+    "font_height": 20,
+    "font_width": 100,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "positions.",
+    "font_height": 20,
+    "font_width": 87,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "This",
+    "font_height": 15,
+    "font_width": 40,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 5
+  },
+  {
+    "text": "masking,",
+    "font_height": 20,
+    "font_width": 80,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "combined",
+    "font_height": 15,
+    "font_width": 87,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "with",
+    "font_height": 15,
+    "font_width": 38,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "fact",
+    "font_height": 15,
+    "font_width": 33,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "that",
+    "font_height": 15,
+    "font_width": 33,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 26,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "output",
+    "font_height": 18,
+    "font_width": 57,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "embeddings",
+    "font_height": 20,
+    "font_width": 106,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "are",
+    "font_height": 11,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "offset",
+    "font_height": 16,
+    "font_width": 50,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "by",
+    "font_height": 20,
+    "font_width": 21,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "one",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 97,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "position,",
+    "font_height": 20,
+    "font_width": 76,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "ensures",
+    "font_height": 11,
+    "font_width": 66,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "that",
+    "font_height": 15,
+    "font_width": 33,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 6
+  },
+  {
+    "text": "predictions",
+    "font_height": 20,
+    "font_width": 98,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "for",
+    "font_height": 16,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "position",
+    "font_height": 20,
+    "font_width": 72,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "i",
+    "font_height": 15,
+    "font_width": 6,
+    "confidence": 95,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "can",
+    "font_height": 11,
+    "font_width": 30,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "depend",
+    "font_height": 20,
+    "font_width": 63,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "only",
+    "font_height": 20,
+    "font_width": 39,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "on",
+    "font_height": 11,
+    "font_width": 21,
+    "confidence": 97,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "known",
+    "font_height": 15,
+    "font_width": 60,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "outputs",
+    "font_height": 18,
+    "font_width": 64,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "at",
+    "font_height": 13,
+    "font_width": 16,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "positions",
+    "font_height": 20,
+    "font_width": 79,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "less",
+    "font_height": 15,
+    "font_width": 32,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "than",
+    "font_height": 15,
+    "font_width": 37,
+    "confidence": 96,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "i.",
+    "font_height": 15,
+    "font_width": 11,
+    "confidence": 93,
+    "block_num": 23,
+    "line_num": 7
+  },
+  {
+    "text": "3.2",
+    "font_height": 16,
+    "font_width": 28,
+    "confidence": 57,
+    "block_num": 24,
+    "line_num": 1
+  },
+  {
+    "text": "Attention",
+    "font_height": 16,
+    "font_width": 89,
+    "confidence": 86,
+    "block_num": 24,
+    "line_num": 1
+  },
+  {
+    "text": "An",
+    "font_height": 15,
+    "font_width": 26,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "attention",
+    "font_height": 15,
+    "font_width": 77,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "function",
+    "font_height": 16,
+    "font_width": 73,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "can",
+    "font_height": 11,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "be",
+    "font_height": 15,
+    "font_width": 20,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "described",
+    "font_height": 15,
+    "font_width": 85,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "as",
+    "font_height": 11,
+    "font_width": 16,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "mapping",
+    "font_height": 20,
+    "font_width": 77,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 9,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "query",
+    "font_height": 16,
+    "font_width": 50,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "and",
+    "font_height": 15,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "a",
+    "font_height": 29,
+    "font_width": 8,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "set",
+    "font_height": 13,
+    "font_width": 24,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "of",
+    "font_height": 16,
+    "font_width": 19,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "key-value",
+    "font_height": 20,
+    "font_width": 85,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "pairs",
+    "font_height": 20,
+    "font_width": 42,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "to",
+    "font_height": 13,
+    "font_width": 16,
+    "confidence": 95,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "an",
+    "font_height": 11,
+    "font_width": 20,
+    "confidence": 95,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "output,",
+    "font_height": 18,
+    "font_width": 61,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 1
+  },
+  {
+    "text": "where",
+    "font_height": 15,
+    "font_width": 53,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "the",
+    "font_height": 15,
+    "font_width": 27,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "query,",
+    "font_height": 16,
+    "font_width": 53,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "keys,",
+    "font_height": 20,
+    "font_width": 44,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "values,",
+    "font_height": 18,
+    "font_width": 59,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "and",
+    "font_height": 15,
+    "font_width": 31,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "output",
+    "font_height": 18,
+    "font_width": 57,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "are",
+    "font_height": 11,
+    "font_width": 25,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "all",
+    "font_height": 15,
+    "font_width": 21,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "vectors.",
+    "font_height": 13,
+    "font_width": 67,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "The",
+    "font_height": 15,
+    "font_width": 33,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "output",
+    "font_height": 18,
+    "font_width": 56,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "is",
+    "font_height": 15,
+    "font_width": 14,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "computed",
+    "font_height": 20,
+    "font_width": 87,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "as",
+    "font_height": 11,
+    "font_width": 17,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "a",
+    "font_height": 11,
+    "font_width": 9,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "weighted",
+    "font_height": 20,
+    "font_width": 80,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  },
+  {
+    "text": "sum",
+    "font_height": 11,
+    "font_width": 36,
+    "confidence": 96,
+    "block_num": 25,
+    "line_num": 2
+  }
+]

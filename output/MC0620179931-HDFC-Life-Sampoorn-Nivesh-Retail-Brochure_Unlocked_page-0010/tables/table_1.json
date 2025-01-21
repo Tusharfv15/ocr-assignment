@@ -1,0 +1,25 @@
+{
+  "headers": [
+    "Rider",
+    "UIN",
+    "Scope of Benefits*+"
+  ],
+  "rows": [
+    [
+      "HDFCLife Income Benefit on Accidental",
+      "1OIBO13vO3 Disability Rider",
+      "",
+      "4 benefit equal to 1% of Rider Sum Assured per month for the nextlOyears, íncaseof an Accidental Total Permanent Disability. There is nomaturity benefit available under this rider."
+    ],
+    [
+      "HDFCLife Critical Illness Plus Rider",
+      "IO1BO1qvO2",
+      "A lump sum benefit equal to the Rider SumAssured shall be payable in case you are diagnosed with any of the 19 Critical Illnesses andsurvive foraperiod of 30 following the diagnosis There is no maturity benefit availableunder this rider . A benefit a5 9 proportion of days"
+    ],
+    [
+      "HDFCLife Protect Plus Rider",
+      "IOIBO16VO1",
+      "the Rider Sum Assured shall bepayablein case on acciden- tal death O partialltotal disability due to accident or if you are diagnosed with per the option"
+    ]
+  ]
+}

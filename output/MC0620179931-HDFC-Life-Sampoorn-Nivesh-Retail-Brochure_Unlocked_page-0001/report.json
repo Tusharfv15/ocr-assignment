@@ -1,0 +1,97 @@
+{
+  "extracted_text": "In this policy, the investment risk in investment portfolio is borne by the policyholder. The Unit Linked Insurance Products do not offer any liquidity during the first five years of the contract. The policyholder will not be able to surrender or withdraw the monies invested in Unit Linked Insurance Products completely orpartially till the end of the fifth year. Invest today and secure your family's dreams. a“™N. <™N Loyalty 10 Fund Additions* (10) Options Comprehensive Plan Options ; HDFC HDFC Life Sampoorn Nivesh Life A Unit Linked Non Participating Life Insurance Plan Sarutha ke jiyo! # Loyalty additions are applicable after 10 years. Please refer the product brochure for more details",
+  "missed_text": [
+    {
+      "text": "family's",
+      "confidence": 67,
+      "position": [
+        374,
+        273
+      ]
+    },
+    {
+      "text": "a“™N.",
+      "confidence": 0,
+      "position": [
+        473,
+        855
+      ]
+    },
+    {
+      "text": "<™N",
+      "confidence": 0,
+      "position": [
+        1064,
+        859
+      ]
+    },
+    {
+      "text": "(10)",
+      "confidence": 66,
+      "position": [
+        1084,
+        887
+      ]
+    },
+    {
+      "text": ";",
+      "confidence": 0,
+      "position": [
+        458,
+        1040
+      ]
+    },
+    {
+      "text": "HDFC",
+      "confidence": 4,
+      "position": [
+        326,
+        1045
+      ]
+    },
+    {
+      "text": "Life",
+      "confidence": 4,
+      "position": [
+        434,
+        1038
+      ]
+    },
+    {
+      "text": "#",
+      "confidence": 65,
+      "position": [
+        326,
+        1164
+      ]
+    }
+  ],
+  "document_structure": {
+    "family's": "H1",
+    "today": "H2",
+    "(10)": "H3",
+    "Life": "H3",
+    "and": "H3",
+    "your": "H3",
+    "dreams.": "H3",
+    "Invest": "H3",
+    "a“™N.": "H3",
+    "secure": "H3",
+    "ke": "H3",
+    "Sampoorn": "H3",
+    "Additions*": "H3",
+    "Loyalty": "H3",
+    "HDFC": "H3",
+    "Nivesh": "H3",
+    "<™N": "H3",
+    "jiyo!": "H3",
+    "Participating": "H3",
+    "Options": "H3",
+    "Comprehensive": "H3"
+  },
+  "stats": {
+    "total_characters": 696,
+    "missed_characters": 30,
+    "header_count": 21
+  }
+}
